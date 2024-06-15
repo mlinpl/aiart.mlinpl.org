@@ -7,3 +7,4 @@ permalink: /competition-terms
 
 Rules:
 1. TODO fill this part
+

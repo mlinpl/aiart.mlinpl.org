@@ -52,9 +52,9 @@ navigation:
   - name: "/ About"
     url: "#about"
     subsites:
-      - name: "/ More information"
-        url: "/about-ml-in-pl-conference"
-      - name: "/ Previous editions"
+      - name: "/ More about the Festival"
+        url: "/about-festival"
+      - name: "/ ML in PL Conference"
         subsites:
           - name: "/ 2023"
             url: "https://conference2023.mlinpl.org"
@@ -87,8 +87,8 @@ navigation:
       # - name: "/ Conference booklet"
       #   url: "/docs/booklet.pdf"
 
-  - name: "/ Call for Sponsors"
-    url: "#sponsors"
+  # - name: "/ Call for Sponsors"
+  #   url: "#sponsors"
   
   - name: "/ Timeline"
     url: "#timeline"
@@ -99,8 +99,8 @@ navigation:
   - name: "/ Organizers"
     url: "#organizers"
     subsites:
-      - name: "/ Advisory Board"
-        url: "#advisory-board"
+      # - name: "/ Advisory Board"
+      #   url: "#advisory-board"
       - name: "/ Contact"
         url: "#contact"    
 
