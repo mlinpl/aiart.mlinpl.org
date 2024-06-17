@@ -1,24 +1,30 @@
 <!-- Intro Header -->
 <header class="intro">
     <canvas id="intro-background" class="intro-background"></canvas>
+    <div id="intro-video-container" class="intro-video-container">
+    <video id="intro-video" class="intro-video" autoplay loop muted playsinline>
+        <source src="images/aiart-bg-video.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+    </video>
+    </div>
     <div class="intro-body">
         <div class="container">
             <div class="row">
-                <div class="col-md-8">
+                <div class="col-md-8 event-heading-col">
                     <h1 class="event-heading">{{ site.header.heading }}</h1>
                     {% if site.header.subheading %}
-                    <h2 class="event-subheading">{{ site.header.subheading }}</h2>
+                    <h2 class="event-subheading stroke-text">{{ site.header.subheading }}</h2>
                     {% endif %}
                     {% if site.header.date-location %}
-                    <h3 class="event-date-location">{{ site.header.date-location }}</h3>
+                    <h3 class="event-date-location stroke-text">{{ site.header.date-location }}</h3>
                     {% endif %}
                     
                     {% if site.header.countdown-overwrite %}
-                    <h3 id="event-countdown" class="event-countdown">
+                    <h3 id="event-countdown" class="event-countdown stroke-text">
                         {{ site.header.countdown-overwrite }}
                     </h3>
                     {% else if site.header.countdown-date %}
-                    <h3 id="event-countdown" class="event-countdown">
+                    <h3 id="event-countdown" class="event-countdown stroke-text">
                         {% if site.header.countdown-text %}
                         <div class="event-countdown-text">{{ site.header.countdown-text }}</div>
                         {% endif %}
@@ -29,7 +35,7 @@
                     </h3>
                     {% endif %}
 
-                    <a href="{{ site.header.arrow-url }}" class="btn btn-circle page-scroll">
+                    <a href="{{ site.header.arrow-url }}" class="btn btn-circle page-scroll stroke-text">
                         <i class="fa fa-angle-double-down animated"></i>
                     </a>
                 </div>

@@ -20,12 +20,12 @@
 
 
 # Head settings
-title: ML in PL AI ART 2024
-email: contact@conference.mlinpl.org
+title: ML in PL AI Art Festival 2024
+email: contact@aiart.mlinpl.org
 event-date: "2024-11-07T00:00:00"
 description: >-
-  ML in PL Conference 2024 is an event focused on the best of Machine Learning both in academia and in business.
-main-image: images/mlinpl-conference-2024-logo-black.png
+  ML in PL AI Art Festival 2024 ...
+main-image: images/mlinpl-aiart-2024-logo-white.png
 twitter-username: "@MLinPL"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aiart.mlinpl.org" # the base hostname & protocol for your site, e.g. http://example.com
@@ -35,9 +35,9 @@ author:
 
 
 # Header settings
-inline-logo: '<span class="logo"><span class="main-name">ML <span class="emph">i</span>n PL</span> <span class="sub-name">AI ART 2024</span></span>'
+inline-logo: '<span class="logo"><span class="main-name">ML <span class="emph">i</span>n PL</span> <span class="sub-name">AI ART FESTIVAL 2024</span></span>'
 header:
-  heading: '<img src="images/mlinpl-conference-2024-logo-black.png" style="max-height: 1.5em; max-width: 90%;">'
+  heading: '<img src="images/mlinpl-aiart-2024-logo-white.png" style="max-height: 1.5em; max-width: 90%;">'
   date-location: 7 - 10 November / Warsaw, Poland
   # Countdown settings
   countdown-date: "2024-11-07T08:00:00"
@@ -52,27 +52,16 @@ navigation:
   - name: "/ About"
     url: "#about"
     subsites:
-      - name: "/ More information"
-        url: "/about-ml-in-pl-conference"
-      - name: "/ Previous editions"
-        subsites:
-          - name: "/ 2023"
-            url: "https://conference2023.mlinpl.org"
-          - name: "/ 2022"
-            url: "https://conference2022.mlinpl.org"
-          - name: "/ 2021"
-            url: "https://conference2021.mlinpl.org"
-          - name: "/ 2020"
-            url: "https://conference2020.mlinpl.org"
-          - name: "/ 2019"
-            url: "https://conference2019.mlinpl.org"
-          - name: "/ 2018"
-            url: "https://conference2018.mlinpl.org"
-          - name: "/ 2017"
-            url: "https://conference2017.mlinpl.org"
+      - name: "/ Organizers"
+        url: "#organizers"
+      - name: "/ Contact"
+        url: "#contact" 
+
+  - name: "/ Program"
+    url: "#program"
 
   - name: "/ Competition"
-    url: "#program"
+    url: "#compeition"
     subsites:
       # - name: "/ Agenda"
       #   url: "#agenda"
@@ -87,22 +76,14 @@ navigation:
       # - name: "/ Conference booklet"
       #   url: "/docs/booklet.pdf"
 
-  - name: "/ Call for Sponsors"
-    url: "#sponsors"
-  
   - name: "/ Timeline"
     url: "#timeline"
 
-  # - name: "/ Sponsors & partners"
-  #   url: "#sponsors"
+  - name: "/ Partners"
+    url: "#sponsors"
 
-  - name: "/ Organizers"
-    url: "#organizers"
-    subsites:
-      - name: "/ Advisory Board"
-        url: "#advisory-board"
-      - name: "/ Contact"
-        url: "#contact"    
+  - name: <span class="logo"><span class="main-name">ML in PL</span> <span class="sub-name">CONFERENCE</span></span>
+    url: https://conference.mlinpl.org   
 
 
 # Defaults for different pages
@@ -121,8 +102,8 @@ color:
   default-text: "#FCFCFC"
   main-gradient: "#4BCAFD, #FF00FF"
   background: "#101010"
-  person-photo-filter: "grayscale(75%)"
-  person-photo-gradient: "linear-gradient(140deg, rgba(231,50,42,0) 25%,rgba(231,50,42,0.5) 100%)"
+  person-photo-filter: "grayscale(100%)"
+  person-photo-gradient: "linear-gradient(140deg, rgba(75,202,253,0) 25%,rgba(75,202,253,0.5) 100%)"
 
 
 # Footer settings
