@@ -117,13 +117,13 @@ social:
     url: https://www.linkedin.com/company/mlinpl
   - title: facebook
     icon: facebook
-    url: https://www.facebook.com/MLinPL
+    url: https://www.facebook.com/profile.php?id=61561713505463
   - title: twitter
     icon: x-twitter
     url: https://twitter.com/mlinpl
-  - title: youtube
-    icon: youtube
-    url: https://www.youtube.com/channel/UCmXKn-Xeq1ZTAQBTwsYw4AA
+  # - title: youtube
+  #   icon: youtube
+  #   url: https://www.youtube.com/channel/UCmXKn-Xeq1ZTAQBTwsYw4AA
 
 
 # Build settings
