@@ -76,7 +76,7 @@ The co-authors of accepted papers will have a guaranteed option to buy the ticke
 - **🥈 2st Place: 3000 PLN**
 - **🥉 3st Place: 1000 PLN**
 
-**Student Prize: 1000PLN**, awarded to the best work selected by the students of the Academy of Fine Arts.
+**Student Prize: 1000 PLN**, awarded to the best work selected by the students of the Academy of Fine Arts.
 
 ## / Timeline
 
