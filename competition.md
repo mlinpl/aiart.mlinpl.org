@@ -81,7 +81,7 @@ The co-authors of accepted papers will have a guaranteed option to buy the ticke
 ## / Timeline
 
 {% include timeline-inline.html 
-    timeline-data=site.data.timeline-cfc
+    timeline-data=site.data.timeline-competition
     timeline-col-width=8 
     date-col-width=4
     desc-col-width=8
@@ -89,6 +89,7 @@ The co-authors of accepted papers will have a guaranteed option to buy the ticke
 
 ## / Instructions for preparing your submission
 
+<!-- TODO -->
 **The exact guidelines for preparing your work can be found [here]({{ "./competition-instructions" | relative_url }}).**
 
 You can contact us at <a href="mailto:aiart@mlinpl.org">aiart@mlinpl.org</a> in case you have any further questions regarding the Competition. We look forward to your submissions and wish you good luck!
