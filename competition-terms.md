@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Terms and Conditions of Competition
-html-title: Terms and Conditions of Competition
 permalink: /competition-terms
 ---
 

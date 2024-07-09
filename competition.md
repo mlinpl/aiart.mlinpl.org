@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Competition
-html-title: Competition
+title: About AI Art Competition
 permalink: /competition
 ---
 
@@ -20,6 +19,9 @@ The main organizer of the competition is ML in PL Association, with the Museum o
 Learn more about the Competition below, and **submit your work here:**
 
 <ul class="list-inline banner-social-buttons">
+    <li>
+        <a href="{{ "./competition-instructions" | relative_url }}" class="btn btn-default btn-lg" target="_blank"><i class="fa-solid fa-list"></i> Instructions</a>
+    </li>
     <li>
         <a href="https://mlinpl2024cfc.paperform.co/" class="btn btn-default btn-lg" target="_blank"><i class="fa-solid fa-list"></i> Submit your work</a>
     </li>
@@ -70,7 +72,7 @@ The co-authors of accepted papers will have a guaranteed option to buy the ticke
 ## / Timeline
 
 {% include timeline-inline.html 
-    timeline-data=site.data.timeline-cfc
+    timeline-data=site.data.timeline
     timeline-col-width=8 
     date-col-width=4
     desc-col-width=8

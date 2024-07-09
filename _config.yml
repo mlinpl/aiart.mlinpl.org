@@ -67,6 +67,8 @@ navigation:
       #   url: "#agenda"
       - name: "/ About Competition"
         url: "/competition"
+      - name: "/ Instruction"
+        url: "/competition-instructions"
       - name: "/ Register"
         url: "/competition-register"
       - name: "/ Terms of Competition"
