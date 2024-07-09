@@ -37,7 +37,7 @@ author:
 # Header settings
 inline-logo: '<span class="logo"><span class="main-name">ML <span class="emph">i</span>n PL</span> <span class="sub-name">AI ART FESTIVAL 2024</span></span>'
 header:
-  heading: '<img src="images/mlinpl-aiart-2024-logo-white-stroke.png" style="max-height: 1.5em; max-width: 90%;">'
+  heading: '<img src="images/mlinpl-aiart-2024-logo-white-stroke+shadow.png" style="max-height: 1.75em; max-width: 90%;">'
   date-location: 7 - 10 November / Warsaw, Poland
   # Countdown settings
   countdown-date: "2024-11-07T08:00:00"

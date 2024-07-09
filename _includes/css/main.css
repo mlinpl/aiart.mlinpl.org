@@ -102,9 +102,10 @@
 }
 
 .stroke-text{
-    -webkit-text-stroke: {{ site.color.background }} 2px;
+    -webkit-text-stroke: {{ site.color.background }} 1px;
+    text-stroke: {{ site.color.background }} 1px;
     text-shadow: 2px 2px 2px {{ site.color.background }};
-    font-weight: 800 !important;
+    font-weight: 700 !important;
 }
 
 
@@ -116,7 +117,7 @@
     margin-top: 3em;
     font-size: 3.5em;
     margin-bottom: 5px;
-    background: radial-gradient(farthest-side, rgb(0, 0, 0, 0.5) 0%, rgba(0,0,0,0) 100%);
+    /* background: radial-gradient(farthest-side, rgb(0, 0, 0, 0.5) 0%, rgba(0,0,0,0) 100%); */
 }
 
 .event-subheading {
