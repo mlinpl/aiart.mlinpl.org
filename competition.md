@@ -69,23 +69,29 @@ All accepted talks and posters will be presented during the Main Conference (or 
 **The presenting author (the one submitting the application) will receive a free ticket.** 
 The co-authors of accepted papers will have a guaranteed option to buy the tickets with the Early Bird prices.
 
+**The selected 30 works will be presented in TODO from TODO to TODO. Awards ceremony will take place in Museum of Modern Arts on TODO.**
+
+## / Awards
+
+**Main Festival Prize:**
+- **🥇 1st Place: 5000 PLN**
+- **🥈 2st Place: 3000 PLN**
+- **🥉 3st Place: 1000 PLN**
+
+**Student Prize: 1000 PLN**, awarded to the best work selected by the students of the Academy of Fine Arts.
+
 ## / Timeline
 
 {% include timeline-inline.html 
-    timeline-data=site.data.timeline
+    timeline-data=site.data.timeline-competition
     timeline-col-width=8 
     date-col-width=4
     desc-col-width=8
 %}
 
-**The selected 30 works will be presented in TODO from TODO to TODO. Awards ceremony will take place in Museum of Modern Arts on TODO.**
-
-## / Awards
-
-TODO: Awards
-
 ## / Instructions for preparing your submission
 
+<!-- TODO -->
 **The exact guidelines for preparing your work can be found [here]({{ "./competition-instructions" | relative_url }}).**
 
 You can contact us at <a href="mailto:aiart@mlinpl.org">aiart@mlinpl.org</a> in case you have any further questions regarding the Competition. We look forward to your submissions and wish you good luck!

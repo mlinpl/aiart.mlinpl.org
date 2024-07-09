@@ -52,19 +52,22 @@ navigation:
   - name: "/ About"
     url: "#about"
     subsites:
-      - name: "/ Organizers"
-        url: "#organizers"
-      - name: "/ Contact"
-        url: "#contact" 
+      - name: "/ More information"
+        url: "/about-festival"
+      # - name: "/ Organizers"
+      #   url: "#organizers"
+      # - name: "/ Contact"
+      #   url: "#contact" 
 
-  - name: "/ Program"
-    url: "#program"
+  # - name: "/ Program"
+  #   url: "#program"
+  #   subsites:
+  #     - name: "/ Invited speakers"
+  #       url: "#invited-speakers"
 
   - name: "/ Competition"
-    url: "#compeition"
+    url: "#competition"
     subsites:
-      # - name: "/ Agenda"
-      #   url: "#agenda"
       - name: "/ About Competition"
         url: "/competition"
       - name: "/ Instruction"
@@ -73,16 +76,20 @@ navigation:
         url: "/competition-register"
       - name: "/ Terms of Competition"
         url: "/competition-terms"
-      # - name: "/ Conference game"
-      #   url: "/conference-game"
-      # - name: "/ Conference booklet"
-      #   url: "/docs/booklet.pdf"
 
   - name: "/ Timeline"
     url: "#timeline"
 
-  - name: "/ Partners"
-    url: "#sponsors"
+  # - name: "/ Organizers & Partners"
+  - name: "/ Organizers"
+    url: "#organizers"
+    subsites:
+      # - name: "/ Organizers"
+      #   url: "#organizers"
+      # - name: "/ Partners"
+      #   url: "#partners"
+      - name: "/ Contact"
+        url: "#contact"
 
   - name: <span class="logo"><span class="main-name">ML in PL</span> <span class="sub-name">CONFERENCE</span></span>
     url: https://conference.mlinpl.org   
@@ -119,13 +126,13 @@ social:
     url: https://www.linkedin.com/company/mlinpl
   - title: facebook
     icon: facebook
-    url: https://www.facebook.com/MLinPL
+    url: https://www.facebook.com/profile.php?id=61561713505463
   - title: twitter
     icon: x-twitter
     url: https://twitter.com/mlinpl
-  - title: youtube
-    icon: youtube
-    url: https://www.youtube.com/channel/UCmXKn-Xeq1ZTAQBTwsYw4AA
+  # - title: youtube
+  #   icon: youtube
+  #   url: https://www.youtube.com/channel/UCmXKn-Xeq1ZTAQBTwsYw4AA
 
 
 # Build settings
