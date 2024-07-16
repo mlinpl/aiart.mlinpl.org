@@ -22,9 +22,9 @@ Learn more about the Competition below, and **submit your work here:**
     <li>
         <a href="{{ "./competition-instructions" | relative_url }}" class="btn btn-default btn-lg" target="_blank"><i class="fa-solid fa-list"></i> Instructions</a>
     </li>
-    <li>
+    <!-- <li>
         <a href="https://mlinpl2024cfc.paperform.co/" class="btn btn-default btn-lg" target="_blank"><i class="fa-solid fa-list"></i> Submit your work</a>
-    </li>
+    </li> -->
     <li>
         <a href="{{ "./competition-terms" | relative_url }}" class="btn btn-default"><i class="fa-solid fa-file-lines"></i> Terms and conditions</a>
     </li>
