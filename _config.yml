@@ -80,14 +80,15 @@ navigation:
   - name: "/ Timeline"
     url: "#timeline"
 
-  - name: "/ Organizers & Partners"
-  # - name: "/ Organizers"
+  - name: "/ Partners"
+    url: "#partners"
+
+  - name: "/ Organizers"
     url: "#organizers"
     subsites:
       - name: "/ Organizers"
         url: "#organizers"
-      - name: "/ Partners"
-        url: "#partners"
+      
       - name: "/ Contact"
         url: "#contact"
 
