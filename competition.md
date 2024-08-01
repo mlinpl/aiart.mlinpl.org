@@ -14,7 +14,7 @@ The competition consists of the following phases:
 - Official opening of the exposition and final grading process
 - Official awards ceremony, with cash prizes
 
-The main organizer of the competition is ML in PL Association, with the Museum of Modern Arts, and TODO as co-organizers.
+<!-- The main organizer of the competition is ML in PL Association, with the Museum of Modern Arts, and TODO as co-organizers. -->
 
 Learn more about the Competition below, and **submit your work here:**
 
