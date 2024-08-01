@@ -68,12 +68,12 @@ navigation:
   - name: "/ Competition"
     url: "#competition"
     subsites:
-      - name: "/ About Competition"
+      - name: "/ Description"
         url: "/competition"
-      - name: "/ Instruction"
+      - name: "/ Additional Instructions"
         url: "/competition-instructions"
-      # - name: "/ Register"
-      #   url: "/competition-register"
+      - name: "/ Submit your work"
+        url: "https://aiartcompetition2024.paperform.co/"
       - name: "/ Terms of Competition"
         url: "/competition-terms"
 
