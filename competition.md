@@ -69,7 +69,7 @@ We accept only visual artworks, no music or texts. Except for that, we have no s
 - **Artistic and technical execution:** We value artworks with high artistic value and attention to detail.
 - **Documentation and presentation:** Each work should include clear documentation explaining the concept, creation process, and AI’s role, aiding audience and jury understanding. Details about submission can be found in the registration form.
 
-## / Example questions in this problem / area
+## / Example questions in this problem/area
 - Probable AI development paths
 - Previously AI models were restricted to structured datasets, now AI models learn by reading blog posts online or watching videos. How can future AI models observe and perceive even a wider part of reality and our lives?
 - Can AI models learn abstract thinking or creativity, or do they just give answers that are most plausible by their experience of perceiving the world? How can we make a truly creative AI model?
