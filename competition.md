@@ -20,7 +20,7 @@ Learn more about the Competition below, and **submit your work here:**
 
 <ul class="list-inline banner-social-buttons">
     <li>
-        <a href="{{ "./competition-instructions" | relative_url }}" class="btn btn-default btn-lg" target="_blank"><i class="fa-solid fa-list"></i> Instructions</a>
+        <a href="{{ "./competition-instructions" | relative_url }}" class="btn btn-default btn-lg"><i class="fa-solid fa-list"></i> Instructions</a>
     </li>
     <li>
         <a href="https://aiartcompetition2024.paperform.co/" class="btn btn-default btn-lg" target="_blank"><i class="fa-solid fa-list"></i> Submit your work</a>
