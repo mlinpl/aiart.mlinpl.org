@@ -1,5 +1,6 @@
 /*!
  * ML in PL Jekyll Theme
+ * Main CSS file
  */
 
 /* Force larger margins for all Bootstrap elements */
@@ -325,6 +326,7 @@ ol > li > ol > li > ol > li:before {
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
     font-family: 'Poppins', sans-serif;
+    background-color: {{ site.color.background }};
 }
 
 .navbar-custom .navbar-brand {
@@ -385,6 +387,10 @@ ol > li > ol > li > ol > li:before {
     padding: 0;
 }
 
+.navbar-main-collapse {
+    background: {{ site.color.background }};
+}
+
 .navbar-nav, .nav-dropdown-content {
     font-size: 14px;
 }
@@ -433,6 +439,10 @@ ol > li > ol > li > ol > li:before {
 }
 
 @media(min-width:767px) {
+    .navbar-main-collapse {
+        background: none !important;
+    }
+
     .nav-dropdown-content {
         min-width: 160px;
         position: absolute;
@@ -1074,6 +1084,9 @@ body {
 .read-more-trigger{
     margin-top: -1.5em;
 }
+
+
+/* Ticket info */
 
 .ticket-info p, .ticket-info table {
     margin-top: 15px;
