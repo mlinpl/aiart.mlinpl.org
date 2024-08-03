@@ -38,9 +38,9 @@ author:
 inline-logo: '<span class="logo"><span class="main-name">ML <span class="emph">i</span>n PL</span> <span class="sub-name">AI ART FESTIVAL 2024</span></span>'
 header:
   heading: '<img src="images/mlinpl-aiart-2024-logo-white-stroke+shadow.png" style="max-height: 1.75em; max-width: 90%;">'
-  date-location: 7 - 10 November / Warsaw, Poland
+  date-location: 8 - 10 November / Warsaw, Poland
   # Countdown settings
-  countdown-date: "2024-11-07T08:00:00"
+  countdown-date: "2024-11-08T08:00:00"
   arrow-url: "#about"
 
 
@@ -66,28 +66,29 @@ navigation:
   #       url: "#invited-speakers"
 
   - name: "/ Competition"
-    url: "#competition"
+    url: "/competition"
     subsites:
-      - name: "/ About Competition"
+      - name: "/ Description"
         url: "/competition"
-      - name: "/ Instruction"
+      - name: "/ Additional Instructions"
         url: "/competition-instructions"
-      # - name: "/ Register"
-      #   url: "/competition-register"
+      - name: "/ Submit your work"
+        url: "https://aiartcompetition2024.paperform.co/"
       - name: "/ Terms of Competition"
         url: "/competition-terms"
 
   - name: "/ Timeline"
     url: "#timeline"
 
-  - name: "/ Organizers & Partners"
-  # - name: "/ Organizers"
+  - name: "/ Partners"
+    url: "#partners"
+
+  - name: "/ Organizers"
     url: "#organizers"
     subsites:
       - name: "/ Organizers"
         url: "#organizers"
-      - name: "/ Partners"
-        url: "#partners"
+      
       - name: "/ Contact"
         url: "#contact"
 

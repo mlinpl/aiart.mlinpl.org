@@ -4,7 +4,22 @@ title: Instruction for preparing your submission
 permalink: /competition-instructions
 ---
 
-In the application form for our Competition, we ask you to provide instructions for exhibiting your work. To allow you to decide which information might be useful to include, we will provide context by briefly describing the exhibition venue. More information on the available venue, including photos and floor plan sketches, will be provided within two weeks.
+## Details about Submission Format
+**(1st stage of the Competition: for the submission of works)**
+
+To qualify for the first stage of the Competition (Call for Contribution stage) you will be asked to prepare a digital submission of your work in the submission form. 
+
+The digital submission is a link to a Google Drive folder, which is expected to contain min. 3 files:
+- Video: Max 3 minutes, presenting and explaining the Project. This video will be displayed during the awards ceremony at the Exhibition in case of winning.
+- Concept Document: Text document explaining the concept / idea behind the Project and how it’s related to the topic of the Competition (min. 100 words).
+- Project Documentation: Documentation of the Project creation process and specifications of how to run / display the artwork. This may include: text document describing the process, gallery of in-progress photos, link to code repository. This document should also describe any special / additional requirements of showing the Project
+
+The Project submission does not have to be finished at the time of submission, and can be constantly updated. After the submission deadline passes, the project files will be downloaded by Organizer and used to determine if the work qualifies for the exhibition and next stage of competition. Changes made after the submission deadline will not be considered in making the decision.
+
+## Details about the Venue
+**(2nd stage of the Competition: for works accepted for the Exhibition)**
+
+After you pass the 1st stage of the Competition, you will be invited to present your work in person at the venue. In the application form for our Competition, we ask you to provide instructions for exhibiting your work. To allow you to decide which information might be useful to include, we will provide context by briefly describing the exhibition venue. More information on the available venue, including photos and floor plan sketches, will be provided soon.
 
 The venue that we have prepared for this exhibition is the building of the Faculty of Artistic Research at Warsaw Academy of Fine Arts ([official website in Polish](https://asp.waw.pl/kontakt/budynki/wybrzeze-kosciuszkowskie/)), located at Wybrzeże Kościuszkowskie 37/39, overlooking the Vistula River. The exhibition will occupy two distinct spaces, joined by a spiral staircase and a wheelchair-accessible elevator. 
 
