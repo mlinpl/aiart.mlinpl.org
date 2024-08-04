@@ -474,7 +474,7 @@ ol > li > ol > li > ol > li:before {
     color: {{ site.color.default-text }};
     background-color: {{ site.color.background }};
     background-size: cover;
-    background-image: url("images/aiart-bg-image.png");
+    background-image: url("images/aiart-bg-image-v2.png");
     position: relative;
 }
 
@@ -499,7 +499,7 @@ ol > li > ol > li > ol > li:before {
 
 .page-intro {
     height: 400px !important;
-    margin-bottom: -150px;
+    margin-bottom: -120px;
 }
 
 @media(min-width:767px) {

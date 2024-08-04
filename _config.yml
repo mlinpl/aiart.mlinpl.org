@@ -101,7 +101,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /images/mlinpl-conference-2024-event-banner.jpg
+      image: /images/mlinpl-aiart-2024-event-banner.jpg
 
 
 # Colors and styles settings
