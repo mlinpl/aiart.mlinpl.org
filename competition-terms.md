@@ -131,9 +131,9 @@ Rules of The AI ART COMPETITION as part of the **ML in PL** AI Art Festival 2024
 **§ 9\. SCHEDULE.**
 
 1. The Competition will be announced by 01.08.2024 on the Website.  
-2. Deadline for submission of Projects to the Call of Contribution by 30.09.2024, 23:59 (AoE).  
+2. Deadline for submission of Projects to the Call for Contribution by 30.09.2024, 23:59 (AoE).  
 3. Announcement of the Call of Contribution results by 13.10.2024, 23:59 (AoE).   
-4. The Exhibition 27.11.2024-10.11.2024.  
+4. The Exhibition 27.10.2024-10.11.2024.  
 5. The Award Ceremony 09.11.2024.
 
 **§ 10\. COMPLAINTS.**
