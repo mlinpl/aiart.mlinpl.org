@@ -22,11 +22,11 @@
   twitter: ""
   image: "images/optimized/organizers-300x300/AleksandraMulewicz.webp"
 
-# - name: "Karolina Nowacka"
-#   title: "AI Art Festival Team"
-#   linkedin: "https://www.linkedin.com/in/karonowacka/"
-#   twitter: ""
-#   image: "images/optimized/organizers-300x300/KarolinaNowacka.webp"
+- name: "Karolina Nowacka"
+  title: "AI Art Festival Team"
+  linkedin: "https://www.linkedin.com/in/karonowacka/"
+  twitter: ""
+  image: "images/optimized/organizers-300x300/KarolinaNowacka.webp"
 
 - name: "Ola Nowak"
   title: "AI Art Festival Team"
