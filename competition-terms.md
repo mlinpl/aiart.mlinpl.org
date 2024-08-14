@@ -17,7 +17,7 @@ Rules of The AI ART COMPETITION as part of the **ML in PL** AI Art Festival 2024
 1. The AI ART Competition (the “**Competition**”) aims to select works in the field of data science, machine learning, and artificial intelligence, which will be presented at **ML in PL** AI Art Festival 2024 (the “**Festival**”). During the Festival the best selected works will be awarded the Festival Prize, the Students’ Prize and the Honorable Mentions.  
 2. The Competition consists of two phases:  
    I. **Call for Contribution phase** (the “**Call for Contribution**”) – participants are invited to send their works until 30.09.2024, 23:59 (AoE) and the representatives of the Organizer will select works for inclusion in the exhibition during the Festival. The Organizer will contact all selected works’ authors by 13.10.2024 and publicly announce the selection results on that date – the rules of this phase are described in the § 4 and § 5 of the Rules of the AI ART Competition.  
-   II. **Exhibition phase** (the “**Exhibition**”) – selected works will be displayed during 27.10.2024-10.11.2024 at the Academy of Fine Arts in Warsaw’s public exhibition space, as part of a free of charge exhibition accompanying the 2024 ML in PL AI Art Festival. Each exhibited work will participate in the competition for the Festival Prize, the Students’ Prize and the Honorable Mention – the rules of this phase are described in the § 7 and § 8 of the Rules of the AI ART Competition.
+   II. **Exhibition phase** (the “**Exhibition**”) – selected works will be displayed during 31.10.2024-10.11.2024 at the Academy of Fine Arts in Warsaw’s public exhibition space, as part of a free of charge exhibition accompanying the 2024 ML in PL AI Art Festival. Each exhibited work will participate in the competition for the Festival Prize, the Students’ Prize and the Honorable Mention – the rules of this phase are described in the § 7 and § 8 of the Rules of the AI ART Competition.
 
 **§ 3\. THE PROJECT.**
 
@@ -89,7 +89,7 @@ Rules of The AI ART COMPETITION as part of the **ML in PL** AI Art Festival 2024
 1. The Exhibition is closed only for Projects selected by the Jury.  
 2. The Projects for inclusion in the Exhibition will be selected and publicly announced on the Website no later than 13.10.2024.  
 3. The Participant, whose Project was selected to the Exhibition (the “**Finalist**”) will be invited to:  
-   a) attend and participate in the exhibition’s opening at the Academy of Fine Arts on 27.10.2024.  
+   a) attend and participate in the exhibition’s opening at the Academy of Fine Arts on 31.10.2024.  
    b) attend and actively participate in the exhibition closing and award ceremony at the Museum of Modern Art in Warsaw on 09.11.2024.   
 4. The Finalist must confirm taking part in the Exhibition no later than 17.10.2024 via email ai-art@mlinpl.org. In the event of the Finalist consisting of a group of persons, the Finalist is obliged to choose its representatives up to a maximum of two individuals, who will represent the Finalist at the Exhibition. The personal details of the Finalist’s representatives must be notified to the ML in PL by e-mail within 7 days from being informed of the selection of the Project for the Exhibition.  
 5. The Project must be complete for display at the Exhibition. If the Project is not finished by the time of the Exhibition, the Finalist will be disqualified.  
@@ -131,9 +131,9 @@ Rules of The AI ART COMPETITION as part of the **ML in PL** AI Art Festival 2024
 **§ 9\. SCHEDULE.**
 
 1. The Competition will be announced by 01.08.2024 on the Website.  
-2. Deadline for submission of Projects to the Call of Contribution by 30.09.2024, 23:59 (AoE).  
+2. Deadline for submission of Projects to the Call for Contribution by 30.09.2024, 23:59 (AoE).  
 3. Announcement of the Call of Contribution results by 13.10.2024, 23:59 (AoE).   
-4. The Exhibition 27.11.2024-10.11.2024.  
+4. The Exhibition 31.10.2024-10.11.2024.  
 5. The Award Ceremony 09.11.2024.
 
 **§ 10\. COMPLAINTS.**
