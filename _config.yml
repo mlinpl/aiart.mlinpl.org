@@ -38,7 +38,7 @@ author:
 inline-logo: '<span class="logo"><span class="main-name">ML <span class="emph">i</span>n PL</span> <span class="sub-name">AI ART FESTIVAL 2024</span></span>'
 header:
   heading: '<img src="images/mlinpl-aiart-2024-logo-white-stroke+shadow.png" style="max-height: 1.75em; max-width: 90%;">'
-  date-location: 8 - 10 November / Warsaw, Poland
+  date-location: 31 October - 10 November / Warsaw, Poland
   # Countdown settings
   countdown-date: "2024-11-08T08:00:00"
   arrow-url: "#about"
@@ -124,13 +124,13 @@ footer: ML in PL Association
 social:
   - title: linkedin
     icon: linkedin
-    url: https://www.linkedin.com/in/ml-in-pl-ai-art-515154317/
+    url: https://www.linkedin.com/company/mlinpl
   - title: facebook
     icon: facebook
-    url: https://www.facebook.com/mlinplaiart
+    url: https://www.facebook.com/mlinpl
   - title: twitter
     icon: x-twitter
-    url: https://x.com/mlinpl_aiart
+    url: https://x.com/mlinpl
   # - title: youtube
   #   icon: youtube
   #   url: https://www.youtube.com/channel/UCmXKn-Xeq1ZTAQBTwsYw4AA
