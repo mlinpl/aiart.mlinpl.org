@@ -87,9 +87,6 @@ navigation:
   - name: "/ Organizers"
     url: "#organizers"
     subsites:
-      - name: "/ Organizers"
-        url: "#organizers"
-
       - name: "/ Join us"
         url: "https://mlinpl-aiart-team-recruitment.paperform.co/"
         target: "_blank"
