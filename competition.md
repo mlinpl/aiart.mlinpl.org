@@ -82,8 +82,8 @@ We accept only visual artworks, no music or texts. Except for that, we have no s
 
 **Main Festival Prize:**
 - **🥇 1st Place: 5000 PLN**
-- **🥈 2st Place: 3000 PLN**
-- **🥉 3st Place: 1000 PLN**
+- **🥈 2nd Place: 3000 PLN**
+- **🥉 3rd Place: 1000 PLN**
 
 **Student Prize: 1000 PLN**, awarded to the best work selected by the students of the Academy of Fine Arts.
 
