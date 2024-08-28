@@ -40,7 +40,7 @@ header:
   heading: '<img src="images/mlinpl-aiart-2024-logo-white-stroke+shadow.png" style="max-height: 1.75em; max-width: 90%;">'
   date-location: 31 October - 10 November / Warsaw, Poland
   # Countdown settings
-  countdown-date: "2024-11-08T08:00:00"
+  countdown-date: "2024-10-31T08:00:00"
   arrow-url: "#about"
 
 
@@ -74,6 +74,7 @@ navigation:
         url: "/competition-instructions"
       - name: "/ Submit your work"
         url: "https://aiartcompetition2024.paperform.co/"
+        target: "_blank"
       - name: "/ Terms of Competition"
         url: "/competition-terms"
 
@@ -86,14 +87,16 @@ navigation:
   - name: "/ Organizers"
     url: "#organizers"
     subsites:
-      - name: "/ Organizers"
-        url: "#organizers"
+      - name: "/ Join us"
+        url: "https://mlinpl-aiart-team-recruitment.paperform.co/"
+        target: "_blank"
       
       - name: "/ Contact"
         url: "#contact"
 
   - name: <span class="logo"><span class="main-name">ML in PL</span> <span class="sub-name">CONFERENCE</span></span>
-    url: https://conference.mlinpl.org   
+    url: https://conference.mlinpl.org
+    target: "_blank"   
 
 
 # Defaults for different pages
