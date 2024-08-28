@@ -474,7 +474,7 @@ ol > li > ol > li > ol > li:before {
     color: {{ site.color.default-text }};
     background-color: {{ site.color.background }};
     background-size: cover;
-    background-image: url("images/aiart-bg-image-v2.png");
+    background-image: url("images/mlinpl-aiart-bg-image-v2.png");
     position: relative;
 }
 
