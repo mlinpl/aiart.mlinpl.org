@@ -82,7 +82,7 @@ navigation:
     url: "#timeline"
 
   - name: "/ Partners"
-    url: "#partners"
+    url: "#sponsors"
 
   - name: "/ Organizers"
     url: "#organizers"
