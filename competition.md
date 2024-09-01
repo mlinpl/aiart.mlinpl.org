@@ -10,9 +10,9 @@ We are excited to invite all artists and AI enthusiasts to our AI Art Competitio
 
 The competition consists of the following phases:
 - Online submission of your work, accompanied by a detailed description
-- Notification of the top 30 works invited to present at the on-site exposition
+- Notification of the top works invited to present at the on-site exposition
 - Official opening of the exposition and final grading process
-- Official awards ceremony, with cash prizes
+- Official awards ceremony, with cash prizes.
 
 <!-- The main organizer of the competition is ML in PL Association, with the Museum of Modern Arts, and TODO as co-organizers. -->
 
@@ -85,7 +85,7 @@ We accept only visual artworks, no music or texts. Except for that, we have no s
 - **🥈 2nd Place: 3000 PLN**
 - **🥉 3rd Place: 1000 PLN**
 
-**Student Prize: 1000 PLN**, awarded to the best work selected by the students of the Academy of Fine Arts.
+**Students' Prize: 1000 PLN**, awarded to the best work selected by the students of the Academy of Fine Arts.
 
 ## / Timeline
 
