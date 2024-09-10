@@ -29,9 +29,9 @@
       image: images/optimized/partners-600x600/FundacjaPolskiejSztukiNowoczesnej.webp
       url: "http://fundacjapsn.pl/"
 
-    - name: Niezła Sztuka
-      image: images/optimized/partners-600x600/NiezlaSztuka.webp
-      url: "https://niezlasztuka.net/"
+   # - name: Niezła Sztuka
+   #   image: images/optimized/partners-600x600/NiezlaSztuka.webp
+   #   url: "https://niezlasztuka.net/"
 
 - title: "/ Honorary Patronages"
   imageMaxWidth: 410px
