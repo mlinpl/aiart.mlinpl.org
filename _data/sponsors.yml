@@ -65,4 +65,18 @@
   imageMaxHeight: 115px
   margin: 20px 30px
   sponsors:
-
+    - name: bit
+    image: "images/optimized/partners-600x600/bit.webp"
+    url: "https://knbit.edu.pl"
+    - name: KNUM
+    image: "images/optimized/partners-600x600/knum.webp"
+    url: "https://knum.mimuw.edu.pl/"
+    - name: Golem
+    image: "images/optimized/partners-600x600/golem.webp"
+    url: "https://ai.ii.pw.edu.pl/kolo-naukowe-sztucznej-inteligencji-golem/"
+    - name: Czarna Magia
+    image: "images/optimized/partners-600x600/CzarnaMagia.webp"
+    url: "http://wmii.uwm.edu.pl/studenci/kola-naukowe/kolo-naukowe-sztucznej-inteligencji-czarna-magia"
+    - name: Group of Horribly Optimistic STatisticians
+    image: "images/optimized/partners-600x600/GHOST.webp"
+    url: "https://ghost.put.poznan.pl"
