@@ -14,10 +14,10 @@ Rules of The AI ART COMPETITION as part of the **ML in PL** AI Art Festival 2024
 
 **§ 2\. THE PURPOSE AND SCOPE OF THE AI ART COMPETITION.**
 
-1. The AI ART Competition (the “**Competition**”) aims to select works in the field of data science, machine learning, and artificial intelligence, which will be presented at **ML in PL** AI Art Festival 2024 (the “**Festival**”). During the Festival the best selected works will be awarded the Festival Prize, the Students’ Prize and the Honorable Mentions.  
+1. The AI ART Competition (the “**Competition**”) aims to select works in the field of data science, machine learning, and artificial intelligence, which will be presented at **ML in PL** AI Art Festival 2024 (the “**Festival**”). During the Festival the best selected works will be awarded the Festival Prize, the Students’ Prize.  
 2. The Competition consists of two phases:  
    I. **Call for Contribution phase** (the “**Call for Contribution**”) – participants are invited to send their works until 30.09.2024, 23:59 (AoE) and the representatives of the Organizer will select works for inclusion in the exhibition during the Festival. The Organizer will contact all selected works’ authors by 13.10.2024 and publicly announce the selection results on that date – the rules of this phase are described in the § 4 and § 5 of the Rules of the AI ART Competition.  
-   II. **Exhibition phase** (the “**Exhibition**”) – selected works will be displayed during 31.10.2024-10.11.2024 at the Academy of Fine Arts in Warsaw’s public exhibition space, as part of a free of charge exhibition accompanying the 2024 ML in PL AI Art Festival. Each exhibited work will participate in the competition for the Festival Prize, the Students’ Prize and the Honorable Mention – the rules of this phase are described in the § 7 and § 8 of the Rules of the AI ART Competition.
+   II. **Exhibition phase** (the “**Exhibition**”) – selected works will be displayed during 31.10.2024-10.11.2024 at the Academy of Fine Arts in Warsaw’s public exhibition space, as part of a free of charge exhibition accompanying the 2024 ML in PL AI Art Festival. Each exhibited work will participate in the competition for the Festival Prize and the Students’ Prize – the rules of this phase are described in the § 7 and § 8 of the Rules of the AI ART Competition.
 
 **§ 3\. THE PROJECT.**
 
@@ -93,10 +93,11 @@ Rules of The AI ART COMPETITION as part of the **ML in PL** AI Art Festival 2024
    b) attend and actively participate in the exhibition closing and award ceremony at the Museum of Modern Art in Warsaw on 09.11.2024.   
 4. The Finalist must confirm taking part in the Exhibition no later than 17.10.2024 via email ai-art@mlinpl.org. In the event of the Finalist consisting of a group of persons, the Finalist is obliged to choose its representatives up to a maximum of two individuals, who will represent the Finalist at the Exhibition. The personal details of the Finalist’s representatives must be notified to the ML in PL by e-mail within 7 days from being informed of the selection of the Project for the Exhibition.  
 5. The Project must be complete for display at the Exhibition. If the Project is not finished by the time of the Exhibition, the Finalist will be disqualified.  
-6. The Finalist is obliged to participate in the process of including their work in the Exhibition. If the Project cannot be displayed at the Exhibition in accordance with its submitted specification, the Organizer reserves the right to rescind its inclusion in the Exhibition.  
-7. The Finalist is obliged to cover the costs of delivering the Project to the Exhibition, preparing the Project at the Exhibition venue, and allowing the viewers of the Exhibition to experience the Project.  
-8. ML in PL provides reimbursement of the Finalist’s travel and transport costs of the Project to the Exhibition up to the amount of 500 PLN. The aforementioned amount of reimbursement may be increased by the ML in PL at a later stage, of which the Participant will be informed by e-mail.  
-9. In order to receive the aforementioned reimbursement, the Finalist should notify ML in PL by 22.11.2024 via email ai-art@mlinpl.org. ML in PL will notify the Finalist via email of the amount of reimbursement granted and the terms of receipt.
+6. The Finalist is obliged to participate in the process of including their work in the Exhibition. If the Project cannot be displayed at the Exhibition in accordance with its submitted specification, the Organizer reserves the right to rescind its inclusion in the Exhibition.
+7. ML in PL may participate in the Finalist's preparation of the Project for the Exhibition by providing the necessary equipment or tools. The participation of ML in PL in the preparation of the Project and the provision of the necessary equipment will take place after agreement between the Participant and ML in PL on the scope of participation. Participation of ML in PL in the preparation of the Project by the Finalist will be considered individually after prior notification by the Participant via e-mail: ai-art@mlinpl.org
+8. Prize in the amount of 1600 PLN for participation in the exhibition (“**Participation Prize**”). Participation Prize will be credited as follows:
+   a) 50% in amount of 800 PLN after notification of selection for the exhibition by the Jury and the Participant's provision of **documentation confirming that the Project is shipped to the Exhibition**;
+   b) 50% in the amount of 800 PLN after delivery of the Project and display at the Exhibition.
 
 **§ 8\.  THE EXHIBITION RESULTS ANNOUNCEMENT AND AWARDS.**
 
@@ -107,20 +108,18 @@ Rules of The AI ART COMPETITION as part of the **ML in PL** AI Art Festival 2024
       2) the Second Place Prize of amount of 3000 PLN  
       3) the Third Place Prize of amount of 1000 PLN
     (the “**Festival Prize**”)
-
-   b) Students’ Prize of amount of 1000 PLN (the “**Students’ Prize**”)  
-   c) Honorable mentions (the “**Honorable Mention**”)
+   b) Students’ Prize of amount of 1000 PLN (the “**Students’ Prize**”)
 (altogether the “**the Prizes**”)
 
-3. There can be no ex aequo places in the Competition – only one Project can be the winner of a particular Prize, with the exception of the Honorable Mentions.  
+3. There can be no ex aequo places in the Competition – only one Project can be the winner of a particular Prize.  
 4. The final results of Prizes will be announced during the Awards Ceremony which takes place in the Museum of Modern Art in Warsaw (Wybrzeze Kosciuszkowskie 22, 00-390 Warsaw) on 09.10.2024 (the “**Awards Ceremony**”).  
-5. The Festival Prize and the Honorable Mentions will be awarded by a jury consisting of five members:  
+5. The Festival Prize will be awarded by a jury consisting of five members:  
    a) 3 representatives of ML in PL\*  
    b) 1 representative of ASP\*  
    c) 1 representative of MSN\*
 (the “**Exhibition Jury**”)
 
-6. In case of The Festival Prize and the Honorable Mentions final decision made by the Exhibition Jury will be based both on the initial application (during the Call for Contributions and judging criteria described in the § 6 of the Rules of the AI ART Competition) as well as on the Project presentation during the Exhibition. The Exhibition Jury will evaluate the displayed artworks, with the objective of making a final decision based on the aforementioned.   
+6. In case of The Festival Prize final decision made by the Exhibition Jury will be based both on the initial application (during the Call for Contributions and judging criteria described in the § 6 of the Rules of the AI ART Competition) as well as on the Project presentation during the Exhibition. The Exhibition Jury will evaluate the displayed artworks, with the objective of making a final decision based on the aforementioned.   
 7. The Students’ Prize will be awarded by the student body of ASP by a secret ballot (the “**Vote**”). The Vote will be organized among viewers of the Exhibition – every viewer entering the venue of the Exhibition will receive a ballot with a list of the Projects in the Exhibition and an indication of their creators \- Participants. Votes will be collected until 08.11.2024. The Project with the highest number of votes will be the winner of the Students’ Prize. The votes will be counted by the Awards Ceremony.   
 8. The Prize will be credited to the winners’ accounts within 30 working days from the Awards Ceremony via bank transfer or via voucher. The Organizer will contact awarded Finalists to confirm the data necessary to transfer the Prize.  
 9. It is not possible to transfer the right to the Prize to third parties. It is not possible to give up part of the Prize. Resignation from the part of the Prize is tantamount to resignation from the entire Prize.   
