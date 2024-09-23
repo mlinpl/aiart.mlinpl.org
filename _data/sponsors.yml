@@ -21,6 +21,10 @@
   imageMaxHeight: 110px
   margin: 30px 45px
   sponsors:
+    - name: Akademia Sztuk Pięknych w Warszawie
+      image: images/optimized/partners-600x600/asp.webp
+      url: "https://asp.waw.pl/"
+
     - name: Hugging Face
       image: images/optimized/partners-600x600/HuggingFace.webp
       url: "https://huggingface.co/"
