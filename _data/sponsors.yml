@@ -78,6 +78,9 @@
     - name: Golem
       image: "images/optimized/partners-600x600/golem.webp"
       url: "https://ai.ii.pw.edu.pl/kolo-naukowe-sztucznej-inteligencji-golem/"
+    - name: KNDS
+      image: "images/optimized/partners-600x600/knds_logo.webp"
+      url: "https://www.facebook.com/kolonaukowedatascience"
     - name: Czarna Magia
       image: "images/optimized/partners-600x600/CzarnaMagia.webp"
       url: "http://wmii.uwm.edu.pl/studenci/kola-naukowe/kolo-naukowe-sztucznej-inteligencji-czarna-magia"
