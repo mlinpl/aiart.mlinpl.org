@@ -21,7 +21,7 @@
 
 # Head settings
 title: ML in PL AI Art Festival 2024
-email: contact@aiart.mlinpl.org
+email: ai-art@mlinpl.org
 event-date: "2024-11-07T00:00:00"
 description: >-
   ML in PL AI Art Festival 2024 ...
@@ -38,7 +38,7 @@ author:
 inline-logo: '<span class="logo"><span class="main-name">ML <span class="emph">i</span>n PL</span> <span class="sub-name">AI Art Festival 2024</span></span>'
 header:
   heading: '<img src="images/mlinpl-aiart-2024-logo-white-stroke+shadow.png" style="max-height: 1.75em; max-width: 90%;">'
-  date-location: 31 October - 10 November / Warsaw, Poland
+  date-location: 31 October - 11 November / Warsaw, Poland
   # Countdown settings
   countdown-date: "2024-10-31T08:00:00"
   arrow-url: "#about"
@@ -82,7 +82,7 @@ navigation:
     url: "#timeline"
 
   - name: "/ Partners"
-    url: "#partners"
+    url: "#sponsors"
 
   - name: "/ Organizers"
     url: "#organizers"

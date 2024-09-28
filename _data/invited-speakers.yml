@@ -1,34 +1,13 @@
-- name: Yuki Asano
-  title: University of Amsterdam
-  image: images/optimized/speakers-600x600/YukiAsano.webp
+- name: Obvious
+  title: 
+  image: images/optimized/speakers-600x600/obvious.webp
   bio: >-
-    Yuki is an assistant professor for computer vision and machine learning at the QUVA lab at the University of Amsterdam, where he works with Cees Snoek, Max Welling and Efstratios Gavves. His PhD was at the Visual Geometry Group (VGG) at the University of Oxford where he worked with Andrea Vedaldi and Christian Rupprecht. Prior to this, he studied physics at the University of Munich (LMU) and Economics in Hagen as well as a MSc in Mathematical Modelling and Scientific Computing at the Mathematical Institute in Oxford.
-  google scholar: https://scholar.google.com/citations?user=CdpLhlgAAAAJ
+    Obvious is a French trio of artists and researchers that uses artificial intelligence algorithms to create works of art. Their work was highlighted in 2018 with the sale of one of their paintings, Edmond de Belamy, at Christie's NY. Their works, at the crossroads of classical art and the most recent technologies, are subsequently exhibited in the great museums of the world. They are represented by Danysz gallery, renowned for spotting emerging artistic talents. Pioneers of digital art, they are also the first French artists to have created NFTs. Through its work and its collaborations (Nike, Alpine, Opéra de Paris), Obvious aims to bring the tools developed in research to creative people in all industries, in order to initiate the next visual and artistic revolution. Obvious created its Artificial Intelligence research laboratory in 2023 in partnership with the Sorbonne University, with the aim of creating new algorithms for artistic creation and offering them in open-source to the public. In 2024, they present Mind-to-Image, their first research result: a combination of fMRI technology and ML to read the mind's eye.
+  google scholar: 
 
-- name: Tom Rainforth
-  title: University of Oxford
-  image: images/optimized/speakers-600x600/TomRainforth.webp
+- name: Dominik Jałowiński
+  title: 
+  image: images/optimized/speakers-600x600/dominik_jalowinski.webp
   bio: >-
-    Tom is a Senior Researcher in Machine Learning and leader of the RainML Research Lab at the Department of Statistics in the University of Oxford. He is the principal investigator for the ERC Starting Grant Data-Driven Algorithms for Data Acquisition. His research covers a wide range of topics in and around machine learning and experimental design, with areas of particular interest including Bayesian experimental design, deep learning, representation learning, generative models, Monte Carlo methods, active learning, probabilistic programming, and approximate inference.
-  google scholar: https://scholar.google.com/citations?user=ieLRNKMAAAAJ
-
-- name: Bernardino Romera Paredes
-  title: Google DeepMind
-  image: images/optimized/speakers-600x600/BernardinoRomeraParedes.webp
-  bio: >-
-    Bernardino is a researcher at Google DeepMind, where he has been a core team member of AlphaFold2 for protein folding, and AlphaTensor for matrix multiplication algorithms. More recently, he initiated FunSearch, a system which uses Large Language Models for program search and has discovered new mathematical knowledge. Long before that, in 2009, Bernardino started his AI journey by studying the MSc Computational Statistics and Machine Learning at UCL. In 2010 he started a PhD, also at UCL, supervised by Prof. Massimiliano Pontil and Prof. Nadia Berthouze, and in 2013 he also did an internship at Microsoft Research. After finishing his PhD in 2014, he joined the Torr Vision Group as a Postdoc at the University of Oxford, researching about semantic segmentation and zero-shot learning. He has several papers published in Nature, as well as in machine learning conferences like NeurIPS and ICML. His main motivation is to leverage the power of AI to bring light to important scientific problems.
-  google scholar: https://scholar.google.com/citations?user=_LC9U6EAAAAJ
-
-- name: Wojciech Samek
-  title: Technische Universität Berlin
-  image: images/optimized/speakers-600x600/WojciechSamek.webp
-  bio: >-
-    Wojciech Samek is a Professor in the EECS Department at TU Berlin and is jointly heading the AI Department at Fraunhofer HHI. He is a Fellow at BIFOLD - Berlin Institute for the Foundation of Learning and Data, the ELLIS Unit Berlin, and the DFG Research Unit DeSBi. Furthermore, he is a Senior Editor for IEEE TNNLS, an Associate Editor for Pattern Recognition, and an elected member of the IEEE MLSP Technical Committee and Germany's Platform for AI. He also serves as a member of the scientific advisory board of IDEAS NCBR - Polish Centre of Innovation in the Field of Artificial Intelligence. Wojciech has co-authored more than 200 papers and was the leading editor of the Springer book "Explainable AI: Interpreting, Explaining and Visualizing Deep Learning" (2019), and co-editor of the open access Springer book “xxAI – Beyond explainable AI” (2022). He has served as Program Co-Chair for IEEE MLSP'23, and as Area Chair for NAACL'21 and NeurIPS'23, and is a recipient of multiple best paper awards, including the 2020 Pattern Recognition Best Paper Award and the 2022 Digital Signal Processing Best Paper Prize.
-  google scholar: https://scholar.google.com/citations?user=7aQwO08AAAAJ
-
-- name: Jakub Tomczak
-  title: Eindhoven University of Technology
-  image: images/optimized/speakers-600x600/JakubTomczak.webp
-  bio: >- 
-    Jakub M. Tomczak is an associate professor and the PI of the Generative AI group at the Eindhoven University of Technology (TU/e). Before joining the TU/e, he was an assistant professor at Vrije Universiteit Amsterdam, a deep learning researcher (Engineer, Staff) in Qualcomm AI Research in Amsterdam, a Marie Sklodowska-Curie individual fellow in Prof. Max Welling's group at the University of Amsterdam, and an assistant professor and a postdoc at the Wroclaw University of Technology. His main research interests include deep generative modeling, deep learning, and Bayesian inference, with applications to image/text processing, Life Sciences, and Molecular Sciences. He serves as an action editor of "Transactions of Machine Learning Research", and an area chair of major AI conferences (e.g., NeurIPS, ICML, AISTATS). He will be a program chair at NeurIPS 2024. He is the author of the book entitled "Deep Generative Modeling", the first comprehensive book on Generative AI. He is also the founder of Amsterdam AI Solutions.
-  google-scholar: https://scholar.google.com/citations?user=XB99pR4AAAAJ
+    Visual artist, painter, performer, curator of virtual visual experiences. Born in 1981 in Lublin, Poland. Dominik studied at the Faculty of Painting at the Academy of Fine Arts in Warsaw (2002-2008). He creates paintings, performances, and social situations that explore the boundaries of aesthetic and cultural limits on both social and personal levels. In 2015, he was a recipient of a scholarship from the Ministry of Culture and National Heritage. From 2018 to 2022, he was a co-creator and participant in exhibitions at the Galeria Śmierć Frajerom. Since 2017, he has been experimenting with various applications of new technologies in art. Since 2018, he has been using artificial intelligence algorithms as tools for creating images.
+  google scholar: 
