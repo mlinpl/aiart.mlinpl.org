@@ -87,3 +87,9 @@
     - name: Group of Horribly Optimistic STatisticians
       image: "images/optimized/partners-600x600/GHOST.webp"
       url: "https://ghost.put.poznan.pl"
+    - name: IDEAS
+      image: "images/optimized/partners-600x600/IdeasNCBR.webp"
+      url: "https://ideas-ncbr.pl/en/"
+    - name: GMUM
+      image: "images/optimized/partners-600x600/gmum_logo.webp"
+      url: "https://gmum.net/"
