@@ -1,0 +1,34 @@
+- name: Julia Chylak
+  affiliation: ML in PL Association / Academy of Fine Arts in Warsaw / University of Warsaw
+  image: "images/optimized/jury-300x300/JuliaChylak.webp"
+  google-scholar: 
+  bio: >-
+    Julia Chylak is the Leader of the AI Art Team at the ML in PL Association. She is currently studying Paintings at the Academy of Fine Arts in Warsaw while also pursuing a master's degree in Machine Learning at the University of Warsaw, where she previously earned her degree in Mathematics. She’s working on a master’s thesis on video and cartoon generation with diffusion models. She wants to pursue her career in AI animation and filmmaking from a research perspective. As an artist, her work is deeply inspired by Math Art and AI Art. Her pieces could be seen, among others, at CVPR AI Art 2024 and Mazowieckie Centrum Sztuki Współczesnej Elektrownia.
+
+- name: Jakub Depczyński
+  affiliation: Museum of Modern Art in Warsaw
+  image: "images/optimized/jury-300x300/JakubDepczynski.webp"
+  google-scholar: 
+  bio: >-
+    Jakub Depczyński graduated in art history from the Faculty of Management of Visual Culture at the Academy of Fine Arts in Warsaw. He currently works in the Museum of Modern Art in Warsaw as the curator of public programs. He is particularly interested in postartistic practices, the relationship between technology and art, art in the face of the planetary climate and environmental crisis, and contemporary ecological thought. Jakub is one of the creators of the Atlas of the Anti-fascist Year - a social archive of anti-fascist and anti-war activities and attitudes in culture, art, and other walks of life. He is also a co-founder of the Office for Postartistic Services and “Sunflower” Solidary Community Center.
+
+- name: Maciej Mehl
+  affiliation: ML in PL Association / University of Warsaw
+  image: "images/optimized/jury-300x300/MaciejMehl.webp"
+  google-scholar: 
+  bio: >-
+    Maciej Mehl is a member of the ML in PL Association. He graduated in Mathematics and is currently a Machine Learning student at the Faculty of Mathematics, Informatics, and Mechanics of the University of Warsaw, where he is writing a master's thesis on the applications of large language models in robotics. He is a software engineer and artist in the early stages of both careers. In science and art, he is most interested in working with touch and proprioception in computational form.
+
+- name: Przemysław Spurek
+  affiliation: IDEAS NCBR / Jagiellonian University
+  image: "images/optimized/jury-300x300/PrzemyslawSpurek.webp"
+  google-scholar: 
+  bio: >-
+    Przemysław Spurek is the leader of the Neural Rendering research team at IDEAS NCBR and a researcher in the GMUM group at Jagiellonian University in Cracow. In 2014, he defended his PhD in machine learning and information theory. In 2023, he obtained his habilitation degree and became a university professor. He has published articles at prestigious international conferences such as NeurIPS, ICML, IROS, AISTATS, and ECML. He co-authored the book "Głębokie uczenie. Wprowadzenie" [Deep Learning. Introduction], a compendium of knowledge about the basics of AI. He has led NCN grants, including PRELUDIUM, SONATA, OPUS, and SONATA BIS. His research focuses on neural rendering, particularly NeRF and Gaussian Splatting models.
+
+- name: Jakub Wróblewski
+  affiliation: Academy of Fine Arts in Warsaw
+  image: "images/optimized/jury-300x300/JakubWroblewski.webp"
+  google-scholar: 
+  bio: >-
+    Jakub Wróblewski is an interdisciplinary artist, researcher, and professor at the Faculty of Media Art at the Academy of Fine Arts in Warsaw. He specializes in immersive activities and audiovisual storytelling, with a focus on virtual reality (VR) and mixed reality (MR). His research explores the boundaries of 3D and VR technology, game engines, and embodiment in virtual experiences. He leads the 3D and Virtual Events Studio II at the Academy. He is also a tutor in the Gaude Polonia program and recipient of the Young Poland program scholarship. He has lectured internationally in Belgium, the Netherlands, England, Turkey, Norway, and India.

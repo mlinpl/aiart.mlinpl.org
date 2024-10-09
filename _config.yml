@@ -77,6 +77,8 @@ navigation:
         target: "_blank"
       - name: "/ Terms of Competition"
         url: "/competition-terms"
+      - name: "/ Jury"
+        url: "/competition-jury"
 
   - name: "/ Timeline"
     url: "#timeline"

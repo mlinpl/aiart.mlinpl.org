@@ -32,7 +32,7 @@ optimize_images () {
 
 # Optimize images of organizers and advisory-board
 optimize_images organizers 300x300 webp 90
-optimize_images advisory-board 300x300 webp 90
+optimize_images jury 300x300 webp 90
 
 # Optimize images of speakers
 optimize_images speakers 600x600 webp 90
