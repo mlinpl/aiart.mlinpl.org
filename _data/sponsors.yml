@@ -32,6 +32,10 @@
     - name: Fundacja Polskiej Sztuki Nowoczesnej
       image: images/optimized/partners-600x600/FundacjaPolskiejSztukiNowoczesnej.webp
       url: "http://fundacjapsn.pl/"
+      
+    - name: TCL Research Europe
+      image: images/optimized/partners-600x600/TCL.webp
+      url: "https://tcl-research.pl"
 
    # - name: Niezła Sztuka
    #   image: images/optimized/partners-600x600/NiezlaSztuka.webp
