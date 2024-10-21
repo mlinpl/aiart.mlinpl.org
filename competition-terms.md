@@ -58,10 +58,11 @@ Rules of The AI ART COMPETITION as part of the **ML in PL** AI Art Festival 2024
 **§ 6\. JUDGING CRITERIA.**
 
 1. The Projects submitted to the Call for Contribution will be evaluated by the Jury consisting of curators, art critics and AI researchers, compromising:  
-   a) three persons selected by ML in PL  
+   a) two persons selected by ML in PL  
    b) one person selected by Academy of Fine Arts in Warsaw (“the **ASP**”)  
    c) one person selected by Museum of Modern Art in Warsaw (“the **Museum**”)
-(the “**Jury**”)
+   d) one person selected by Ideas NCBR (“the **Ideas**”)
+(the “**Jury**”).
 
 2. The Jury will evaluate the Projects according to the following criteria:  
    a) **Relevance** – the Project should reflect on the topic of the future of AI and its future impact on our world.  
@@ -95,7 +96,7 @@ Rules of The AI ART COMPETITION as part of the **ML in PL** AI Art Festival 2024
 5. The Project must be complete for display at the Exhibition. If the Project is not finished by the time of the Exhibition, the Finalist will be disqualified.  
 6. The Finalist is obliged to participate in the process of including their work in the Exhibition. If the Project cannot be displayed at the Exhibition in accordance with its submitted specification, the Organizer reserves the right to rescind its inclusion in the Exhibition.
 7. ML in PL may participate in the Finalist's preparation of the Project for the Exhibition by providing the necessary equipment or tools. The participation of ML in PL in the preparation of the Project and the provision of the necessary equipment will take place after agreement between the Participant and ML in PL on the scope of participation. Participation of ML in PL in the preparation of the Project by the Finalist will be considered individually after prior notification by the Participant via e-mail: ai-art@mlinpl.org
-8. Prize in the amount of 1600 PLN for participation in the exhibition (“**Participation Prize**”). Participation Prize will be credited as follows:
+8. The Finalist will be awarded with prize in the amount of 1600 PLN for participation in the exhibition (“**Participation Prize**”). Participation Prize will be credited as follows:
    a) 50% in amount of 800 PLN after notification of selection for the exhibition by the Jury and the Participant's provision of **documentation confirming that the Project is shipped to the Exhibition**;
    b) 50% in the amount of 800 PLN after delivery of the Project and display at the Exhibition.
 
@@ -114,9 +115,10 @@ Rules of The AI ART COMPETITION as part of the **ML in PL** AI Art Festival 2024
 3. There can be no ex aequo places in the Competition – only one Project can be the winner of a particular Prize.  
 4. The final results of Prizes will be announced during the Awards Ceremony which takes place in the Museum of Modern Art in Warsaw (Wybrzeze Kosciuszkowskie 22, 00-390 Warsaw) on 09.10.2024 (the “**Awards Ceremony**”).  
 5. The Festival Prize will be awarded by a jury consisting of five members:  
-   a) 3 representatives of ML in PL\*  
+   a) 2 representatives of ML in PL\*
    b) 1 representative of ASP\*  
    c) 1 representative of MSN\*
+   d) 1 representative of Ideas NCBR\*
 (the “**Exhibition Jury**”)
 
 6. In case of The Festival Prize final decision made by the Exhibition Jury will be based both on the initial application (during the Call for Contributions and judging criteria described in the § 6 of the Rules of the AI ART Competition) as well as on the Project presentation during the Exhibition. The Exhibition Jury will evaluate the displayed artworks, with the objective of making a final decision based on the aforementioned.   
