@@ -29,18 +29,16 @@
         # url: /program#workshop-1
             
 - title: Saturday / 9 November
-  location: online
-  # location-address: Wybrzeże Kościuszkowskie 37, 00-379 Warszawa
-  sessions:
-    - events:
-        - title: "Invited Talk 2: <strong>TBA</strong>"
-          subtitle: "by Boris Eldagsen"
-          element-class: col-lg-12
-          time: 10:00 - 11:00
-
   location: Museum of Modern Art in Warsaw
   location-address: Marszałkowska 103, 00-110 Warsaw
+
   sessions:
+    # - events:
+    #     - title: "Invited Talk 2: <strong>TBA</strong>"
+    #       subtitle: "by Boris Eldagsen"
+    #       element-class: col-lg-12
+    #       time: 10:00 - 11:00
+
     - events:
       - title: "Invited Talk 3: <strong>TBA</strong>"
         subtitle: "by Hugo Caselles-Dupré from Obvious"
