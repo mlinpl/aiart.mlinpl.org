@@ -80,6 +80,16 @@ navigation:
       - name: "/ Jury"
         url: "/competition-jury"
 
+  - name: "/ Program"
+    url: "#program"
+    subsites:
+      - name: "/ Invited speakers"
+        url: "#invited-speakers"
+      - name: "/ Agenda"
+        url: "#agenda"
+      - name: "/ Full program"
+        url: "/program"
+
   - name: "/ Timeline"
     url: "#timeline"
 
