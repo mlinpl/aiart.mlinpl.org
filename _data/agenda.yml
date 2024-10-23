@@ -1,6 +1,6 @@
 - title: Friday / 8 November
-  location: Academy of Fine Arts of Warsaw
-  location-address: Wybrzeże Kościuszkowskie 37, 00-379 Warszawa
+  location: Academy of Fine Arts in Warsaw
+  location-address: Wybrzeże Kościuszkowskie 37, 00-379 Warsaw
   sessions:
     - events:
       - title: "Invited Talk 1: <strong>TBA</strong>"
@@ -29,34 +29,43 @@
         # url: /program#workshop-1
             
 - title: Saturday / 9 November
-  location: Academy of Fine Arts of Warsaw
-  location-address: Wybrzeże Kościuszkowskie 37, 00-379 Warszawa
+  location: online
+  # location-address: Wybrzeże Kościuszkowskie 37, 00-379 Warszawa
   sessions:
     - events:
-      - title: "Invited Talk 2: <strong>TBA</strong>"
-        subtitle: "by Obvious"
+        - title: "Invited Talk 2: <strong>TBA</strong>"
+          subtitle: "by Boris Eldagsen"
+          element-class: col-lg-12
+          time: 10:00 - 11:00
+
+  location: Museum of Modern Art in Warsaw
+  location-address: Marszałkowska 103, 00-110 Warsaw
+  sessions:
+    - events:
+      - title: "Invited Talk 3: <strong>TBA</strong>"
+        subtitle: "by Hugo Caselles-Dupré from Obvious"
         element-class: col-lg-12
-        time: 17:00 - 18:30
+        time: 17:00 - 19:00
         # room: TBA
         # url: /program#invited-talk-1
             
     - events:
       - title: 'Break'
         element-class: col-lg-12
-        time: 18:30 - 18:45
+        time: 19:00 - 19:15
 
-    - events:
-      - title: "Invited Talk 3: <strong>TBA</strong>"
-        subtitle: "by Rachel Maclean"
-        element-class: col-lg-12
-        time: 18:45 - 20:15
+    # - events:
+    #   - title: "Invited Talk 3: <strong>TBA</strong>"
+    #     subtitle: "by Rachel Maclean"
+    #     element-class: col-lg-12
+    #     time: 18:45 - 20:15
         # room: TBA
         # url: /program#workshop-1
             
     - events:
       - title: "<strong>Awards Ceremony</strong>"
         element-class: col-lg-12
-        time: 20:15 - 22:00
+        time: 19:15 - 22:00
         # room: TBA
         # url: /program#workshop-1
     
@@ -65,7 +74,7 @@
   # location-address: Wybrzeże Kościuszkowskie 37, 00-379 Warszawa
   sessions:
     - events:
-        - title: "Workshop 2: <strong>TBA</strong>"
+        - title: "Invited Talk 4: <strong>TBA</strong>"
           subtitle: "by Yuqian Sun"
           element-class: col-lg-12
           time: 10:00 - 11:30
