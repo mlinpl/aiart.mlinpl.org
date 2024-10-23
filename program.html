@@ -1,0 +1,50 @@
+---
+layout: page
+content-wrapper: false
+title: Program of ML in PL: AI Art Festival 2024
+html-title: Program of <br><span class="logo"><span class="main-name">ML <span class="emph">i</span>n PL</span> <span class="sub-name">AI Art Festival 2024</span></span>
+permalink: /program
+---
+
+{% comment %}
+<section class="container content-section">
+    <div class="row">
+        <div class="col-xs-12">
+            <p>
+                The program of the ML in PL Conference 2024 is under construction. 
+                The detailed agenda will be published soon.
+            </p>
+        </div>
+    </div>
+</section>
+{% endcomment %}
+
+<section class="container content-section">
+    <div class="row">
+        <div class="col-xs-12">
+            <h2>/ Agenda</h2>
+            <p>
+                Click on <span class="emph">the blue agenda items</span> to jump to the details.
+            </p>
+        </div>
+    </div>
+    
+    {% for day in site.data.agenda %}
+    <div class="row" style="margin-bottom: 70px;">
+        <div class="col-xs-12">
+            <h3 style="padding-left: 10px; margin-bottom: 0px;"><i class="fa-solid fa-calendar-day"></i> Day {{ forloop.index }}: {{ day.title }}</h3>
+            <h4 style="padding-left: 10px; margin-top: 35px; margin-bottom: 0;"><i class="fa-solid fa-location-dot"></i> <strong>{{ day.location }}</strong></h4>
+            <h4 style="padding-left: 30px;">{{ day.location-address }}</h4>
+        </div>
+        {% include agenda-day-details.html day=day %}
+    </div>
+    {% endfor %}
+</section>
+
+
+{% include talks.html talks-title="/ Invited talks" talks-data=site.data.invited-talks talk-title-prefix="Invited talk" %}
+{% include talks.html talks-title="/ Workshops" talks-data=site.data.workshop talk-title-prefix="Workshop" %}
+
+<a class="btn-circle page-scroll" style="position: fixed; bottom: 10px; right: 10px; background: #000; width: 50px; height: 50px; font-size: 24px; padding: 7px 14px;" href="/program#">
+    <i class="fa fa-angle-double-up animated"></i>
+</a>
