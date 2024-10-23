@@ -3,57 +3,62 @@
   location-address: Wybrzeże Kościuszkowskie 37, 00-379 Warszawa
   sessions:
     - events:
-        - title: "Invited Talk 1: <strong>TBA</strong>"
-          subtitle: "by Dominik Jałowiński"
-          element-class: col-lg-12
-          time: 10:00 - 12:00
-          # room: TBA
-          # url: /program#invited-talk-1
+      - title: "Invited Talk 1: <strong>TBA</strong>"
+        subtitle: "by Dominik Jałowiński"
+        element-class: col-lg-12
+        time: 10:00 - 12:00
+        # room: TBA
+        # url: /program#invited-talk-1
 
-        # Not-coffee break at the moment    
-        # - title: '<i class="fa-solid fa-mug-saucer"></i> Coffee-break'
-        #   element-class: col-lg-12
-        #   time: 12:00 - 12:30
+      # Not-coffee break at the moment    
+      # - title: '<i class="fa-solid fa-mug-saucer"></i> Coffee-break'
+      #   element-class: col-lg-12
+      #   time: 12:00 - 12:30
           
-        - title: 'Break'
-          element-class: col-lg-12
-          time: 12:00 - 12:30
+    - events:
+      - title: 'Break'
+        element-class: col-lg-12
+        time: 12:00 - 12:30
 
-        - title: "Workshop 1: <strong>TBA</strong>"
-          subtitle: "by Domenec Miralles"
-          element-class: col-lg-12
-          time: 12:30 - 14:30
-          # room: TBA
-          # url: /program#workshop-1
+    - events:
+      - title: "Workshop 1: <strong>TBA</strong>"
+        subtitle: "by Domenec Miralles"
+        element-class: col-lg-12
+        time: 12:30 - 14:30
+        # room: TBA
+        # url: /program#workshop-1
             
 - title: Saturday / 9 November
   location: Academy of Fine Arts of Warsaw
   location-address: Wybrzeże Kościuszkowskie 37, 00-379 Warszawa
   sessions:
     - events:
-        - title: "Invited Talk 2: <strong>TBA</strong>"
-          subtitle: "by Obvious"
-          element-class: col-lg-12
-          time: 17:00 - 18:30
-          # room: TBA
-          # url: /program#invited-talk-1
+      - title: "Invited Talk 2: <strong>TBA</strong>"
+        subtitle: "by Obvious"
+        element-class: col-lg-12
+        time: 17:00 - 18:30
+        # room: TBA
+        # url: /program#invited-talk-1
             
-        - title: 'Break'
-          element-class: col-lg-12
-          time: 18:30 - 18:45
+    - events:
+      - title: 'Break'
+        element-class: col-lg-12
+        time: 18:30 - 18:45
 
-        - title: "Invited Talk 3: <strong>TBA</strong>"
-          subtitle: "by Rachel Maclean"
-          element-class: col-lg-12
-          time: 18:45 - 20:15
-          # room: TBA
-          # url: /program#workshop-1
+    - events:
+      - title: "Invited Talk 3: <strong>TBA</strong>"
+        subtitle: "by Rachel Maclean"
+        element-class: col-lg-12
+        time: 18:45 - 20:15
+        # room: TBA
+        # url: /program#workshop-1
             
-        - title: "<strong>Awards Ceremony</strong>"
-          element-class: col-lg-12
-          time: 20:15 - 22:00
-          # room: TBA
-          # url: /program#workshop-1
+    - events:
+      - title: "<strong>Awards Ceremony</strong>"
+        element-class: col-lg-12
+        time: 20:15 - 22:00
+        # room: TBA
+        # url: /program#workshop-1
     
 - title: Sunday / 10 November
   location: online
