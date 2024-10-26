@@ -27,6 +27,12 @@ Expects following parameters: day
         </a>
         {% endif %}
 
+        {% if event.registration-url %}
+        <a href="{{ event.registration-url | relative_url }}" style="color:#fff;">>
+            <h5>REGISTER HERE!</h5>
+        </a>
+        {% endif %}
+
         {% if event.subevents %}
         <ul>
         {% for subevent in event.subevents %}
