@@ -51,7 +51,8 @@
         time: 17:00 - 19:00
         # room: TBA
         url: /program#invited-talk-3
-            
+        registration-url: https://aiartfestival-lecture-registration-obvious.paperform.co
+
     - events:
       - title: 'Break'
         element-class: col-lg-12
