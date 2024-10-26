@@ -26,7 +26,7 @@
         element-class: col-lg-12
         time: 12:30 - 14:30
         # room: TBA
-        # url: /program#workshop-1
+        url: /program#workshop-1
             
 - title: Saturday / 9 November
   location: Museum of Modern Art in Warsaw
