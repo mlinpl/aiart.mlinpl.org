@@ -25,9 +25,9 @@
   image: images/optimized/exhibition-artists-600x600/anze_sekelj.webp
   bio: >-
     In the project Acts of Data: Stones, I investigate the speculative nature of computers generating—via Generative Adversarial Networks (GANs)— new potential historical artefacts created through image synthesis of pre-existing publicly available datasets of 3D models. Within this framework, I used the dataset provided by the “Scan the World” initiative, a repository that hosts scanned 3D models of historical statues from some of the world’s most prominent museums. 
-
+    <br>
     With utilizing the rich resources of the “Scan the World” dataset, my project goes beyond the mere generation of 3D models. It critically examines the historical bias inherent in archiving and presenting artistic works. This endeavor aligns perfectly with the ethos of questioning and redefining museological approaches and practices. By utilizing the extensive collection of scanned historical objects, I explored how the algorithmic creations of the application reflect upon and potentially challenge the gender spectrum and cultural symbolisms embedded within these artifacts. 
-
+    <br>
     One of the focal points of my exploration within the ‘Stones’ project is to investigate the historical context of statues and sculptures, which have often been representative of societal norms, power dynamics, and cultural values. I am intrigued by the prospect of observing how the algorithm’s creations interact with these contexts and how they might challenge or reinforce prevailing narratives. By generating new forms that may not have existed in reality, I aim to provoke discussions on alternative histories and perspectives, encouraging viewers to contemplate the biases and assumptions that shape our understanding of art and history. 
 
 - name: Konrad Smoleń
