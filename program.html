@@ -31,15 +31,15 @@ permalink: /program
     
     {% for day in site.data.agenda %}
     <div class="row" style="margin-bottom: 70px;">
-        {% if day.location-online %}
-            <div class="col-xs-12">
-                <h4 style="padding-left: 10px; margin-top: 35px; margin-bottom: 0;"><i class="fa-solid fa-location-dot"></i> <strong>{{ day.location-online }}</strong></h4>
-            </div>
-            {% include agenda-day-details-online.html day=day %}
-        {% endif %}
-        
         <div class="col-xs-12">
             <h3 style="padding-left: 10px; margin-bottom: 0px;"><i class="fa-solid fa-calendar-day"></i> Day {{ forloop.index }}: {{ day.title }}</h3>
+
+            {% if day.location-online %}
+                    <h4 style="padding-left: 10px; margin-top: 35px; margin-bottom: 0;"><i class="fa-solid fa-location-dot"></i> <strong>{{ day.location-online }}</strong></h4>
+                </div>
+                {% include agenda-day-details-online.html day=day %}
+                <div class="col-xs-12">
+            {% endif %}
             
             <h4 style="padding-left: 10px; margin-top: 35px; margin-bottom: 0;"><i class="fa-solid fa-location-dot"></i> <strong>{{ day.location }}</strong></h4>
             <h4 style="padding-left: 30px;">{{ day.location-address }}</h4>
