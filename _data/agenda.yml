@@ -8,7 +8,7 @@
         element-class: col-lg-12
         time: 10:00 - 12:00
         # room: TBA
-        # url: /program#invited-talk-1
+        url: /program#invited-talk-1
 
       # Not-coffee break at the moment    
       # - title: '<i class="fa-solid fa-mug-saucer"></i> Coffee-break'
@@ -45,7 +45,7 @@
         element-class: col-lg-12
         time: 17:00 - 19:00
         # room: TBA
-        # url: /program#invited-talk-1
+        url: /program#invited-talk-3
             
     - events:
       - title: 'Break'
@@ -77,7 +77,7 @@
           element-class: col-lg-12
           time: 10:00 - 11:30
           # room: TBA
-          # url: /program#invited-talk-1
+          url: /program#invited-talk-4
             
 #         - title: '<i class="fa-solid fa-mug-saucer"></i> Coffee-break'
 #           element-class: col-lg-12
