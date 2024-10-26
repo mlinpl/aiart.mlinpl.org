@@ -8,11 +8,11 @@
 #   image: images/optimized/exhibition-artists-600x600/leon_butler.webp
 #   bio: >-
 
-- name: Agata Konarska
-  title:
-  image: images/optimized/exhibition-artists-600x600/agata_konarska.webp
-  bio: >-
-    TBA
+# - name: Agata Konarska
+#   title:
+#   image: images/optimized/exhibition-artists-600x600/agata_konarska.webp
+#   bio: >-
+#     TBA
 
 # - name: Rafał Kruszka
 #   title:
@@ -46,7 +46,7 @@
   image: images/optimized/exhibition-artists-600x600/ubermorgen.webp
   bio: >-
     With 'The Silver Singularity', commissioned for the 2024 Busan Biennale, UBERMORGEN hack reality through alternate timelines, and unleash 'Happy Dystopias' into our Neo-Biedermeier age. In der Ruhe liegt die Kraft: unlocking hidden potentials and perspectives. Creak.
-    
+    <br>
     As the course is set, the work forks off clustered timelines at the exact moment when activist Carlo Giuliani was shot dead at the G8 anti-globalization protests in Genoa (2001-07-20/17:27h). This crucial event triggered a pandemic of passivity, crashed reality, artificial imaginations, and spaghettification.
 
 - name: Zuzanna Wudarska
@@ -54,6 +54,6 @@
   image: images/optimized/exhibition-artists-600x600/zuzanna_wudarska.webp
   bio: >-
     Manifesto Against the Use of Artificial Intelligence in Art is a work written with ChatGPT and performed by ElevenLabs, based on samples of the artist's voice. It embodies the very duality it protests. Its paradoxical tone reveals both curiosity and fear—yet its delivery is itself a product of AI, challenging the authenticity of its own message.
-
+    <br>
     Zuzanna Wudarska (she/her) - born in 2001, is an audiovisual artist based in Warsaw, Poland. Currently a 4th-year student at the Academy of Fine Arts in Warsaw, majoring in Media Arts. She was awarded the Rector's Scholarship three times, and her BA diploma earned the Dean’s Award and was voted the best diploma by students. In her work, she primarily uses photography, video, and sound to explore themes of discomfort and everyday life. She is a part of the collective "Zdjęcia do dokumentów," which supports people in refugee crises. Her works have been presented at numerous group exhibitions in Warsaw, Poznań, Katowice, Kraków, Łódź and Nottingham.
 
