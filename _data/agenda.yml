@@ -32,7 +32,7 @@
   location-online: online
   sessions-online:
     - events:
-        - title: "Invited Talk 2: <strong>TBA</strong>"
+        - title: "Invited Talk 2: <strong>Will it Blend? The Future of Human/AI Collaboration in Creativity</strong>"
           subtitle: "by Boris Eldagsen"
           element-class: col-lg-12
           time: 10:00 - 11:00
