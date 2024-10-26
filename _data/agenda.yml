@@ -37,6 +37,7 @@
           element-class: col-lg-12
           time: 10:00 - 11:00
           url: /program#invited-talk-2
+          registration-url: https://aiartfestival-lecture-registration-boris-eldagsen.paperform.co
 
 
   location: Museum of Modern Art in Warsaw
@@ -82,6 +83,8 @@
           time: 10:00 - 11:30
           # room: TBA
           url: /program#invited-talk-4
+          registration-url: https://aiartfestival-lecture-registration-yuqian-sun.paperform.co
+
             
 #         - title: '<i class="fa-solid fa-mug-saucer"></i> Coffee-break'
 #           element-class: col-lg-12
