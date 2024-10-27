@@ -3,7 +3,7 @@
   location-address: Wybrzeże Kościuszkowskie 37, 00-379 Warsaw
   sessions:
     - events:
-      - title: "Invited Talk 1: <strong>TBA</strong>"
+      - title: "Invited Talk 1: <strong>Słabi artyści kopiują, wielcy artyści kradną, a AI... robi to wszystko w ułamku sekundy i jeszcze generuje do tego artist statement.</strong>"
         subtitle: "by Dominik Jałowiński"
         element-class: col-lg-12
         time: 10:00 - 12:00
