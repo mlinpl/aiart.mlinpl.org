@@ -59,36 +59,33 @@ navigation:
       # - name: "/ Contact"
       #   url: "#contact" 
 
-  # - name: "/ Program"
-  #   url: "#program"
-  #   subsites:
-  #     - name: "/ Invited speakers"
-  #       url: "#invited-speakers"
-
-  - name: "/ Competition"
-    url: "/competition"
-    subsites:
-      - name: "/ Description"
-        url: "/competition"
-      - name: "/ Additional Instructions"
-        url: "/competition-instructions"
-      - name: "/ Submit your work"
-        url: "https://aiartcompetition2024.paperform.co/"
-        target: "_blank"
-      - name: "/ Terms of Competition"
-        url: "/competition-terms"
-      - name: "/ Jury"
-        url: "/competition-jury"
-
   - name: "/ Program"
     url: "#program"
     subsites:
       - name: "/ Invited speakers"
         url: "#invited-speakers"
+      - name: "/ Exhibition"
+        url: "/exhibition"
       - name: "/ Agenda"
         url: "#agenda"
       - name: "/ Full program"
         url: "/program"
+      - name: "/ Competition"
+        url: "/competition"
+        subsites:
+          - name: "/ Description"
+            url: "/competition"
+          - name: "/ Additional Instructions"
+            url: "/competition-instructions"
+          - name: "/ Submit your work"
+            url: "https://aiartcompetition2024.paperform.co/"
+            target: "_blank"
+          - name: "/ Terms of Competition"
+            url: "/competition-terms"
+          - name: "/ Jury"
+            url: "/competition-jury"
+
+        
 
   - name: "/ Timeline"
     url: "#timeline"

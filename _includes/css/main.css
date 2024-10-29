@@ -444,7 +444,7 @@ ol > li > ol > li > ol > li:before {
     }
 
     .nav-dropdown-content {
-        min-width: 160px;
+        min-width: 180px;
         position: absolute;
         background-color: {{ site.color.background }};
         box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
@@ -474,7 +474,7 @@ ol > li > ol > li > ol > li:before {
     color: {{ site.color.default-text }};
     background-color: {{ site.color.background }};
     background-size: cover;
-    background-image: url("images/mlinpl-aiart-bg-image-v2.png");
+    background-image: url("images/mlinpl-aiart-bg-image-v2.webp");
     position: relative;
 }
 
