@@ -65,7 +65,7 @@ navigation:
       - name: "/ Invited speakers"
         url: "#invited-speakers"
       - name: "/ Exhibition"
-        url: "/exhibition"
+        url: "#exhibition"
       - name: "/ Agenda"
         url: "#agenda"
       - name: "/ Full program"
