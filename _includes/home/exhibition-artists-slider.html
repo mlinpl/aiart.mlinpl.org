@@ -29,9 +29,9 @@
                 <div class="slider-timer"></div>
             </div>
 
-            <div class="slider-tabs">
+            <div class="slider-tabs" id="exhibition-artists-intro">
                 {% for speaker in site.data.exhibition-artists %}
-                <a class="slider-item page-scroll person item-col-4" data-index="{{ forloop.index0 }}" href="#exhibition-artists">
+                <a class="slider-item page-scroll person item-col-4" data-index="{{ forloop.index0 }}" href="#exhibition-artists-intro">
                     <div class="person-photo-wrapper speaker-photo" style="width: 75px;">
                         <div>
                             <img src="{{ speaker.image | relative_url }}" alt="{{ speaker.name }} photo">
