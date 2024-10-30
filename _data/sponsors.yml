@@ -1,21 +1,3 @@
-- title: '/ <span class="platinium-shine-text">Platinum sponsors</span>'
-  imageMaxWidth: 400px
-  imageMaxHeight: 220px
-  margin: 45px 60px
-  sponsors:
-
-- title: '/ <span class="gold-shine-text">Gold sponsors</span>'
-  imageMaxWidth: 280px
-  imageMaxHeight: 90px
-  margin: 30px 45px
-  sponsors:
-
-- title: '/ <span class="silver-shine-text">Silver sponsors</span>'
-  imageMaxWidth: 270px
-  imageMaxHeight: 70px
-  margin: 30px 50px
-  sponsors:
-
 - title: "/ Partners"
   imageMaxWidth: 280px
   imageMaxHeight: 110px
@@ -25,52 +7,26 @@
       image: images/optimized/partners-600x600/asp.webp
       url: "https://asp.waw.pl/"
 
+    - name: Fundacja Polskiej Sztuki Nowoczesnej
+      image: images/optimized/partners-600x600/FundacjaPolskiejSztukiNowoczesnej.webp
+      url: "http://fundacjapsn.pl/"
+
     - name: Hugging Face
       image: images/optimized/partners-600x600/HuggingFace.webp
       url: "https://huggingface.co/"
 
-    - name: Fundacja Polskiej Sztuki Nowoczesnej
-      image: images/optimized/partners-600x600/FundacjaPolskiejSztukiNowoczesnej.webp
-      url: "http://fundacjapsn.pl/"
-      
+    - name: Nvidia
+      image: images/optimized/partners-600x600/Nvidia.webp
+      url: "https://www.nvidia.com/en-us/"
+    
     - name: TCL
       image: images/optimized/partners-600x600/TCL.webp
       url: "https://www.tcl.com/pl/pl"
+    
+    - name: OCTO Legal
+      image: images/optimized/partners-600x600/OCTOLegal.webp
+      url: https://octolegal.com
 
-    - name: TCL
-      image: images/optimized/partners-600x600/Nvidia.webp
-      url: "https://www.nvidia.com/en-us/"
-
-   # - name: Niezła Sztuka
-   #   image: images/optimized/partners-600x600/NiezlaSztuka.webp
-   #   url: "https://niezlasztuka.net/"
-
-- title: "/ Honorary Patronages"
-  imageMaxWidth: 410px
-  imageMaxHeight: 240px
-  margin: 45px 60px
-  sponsors:
-    # - name: Minister of Digital Affairs
-    #   #title: Minister of Digital Affairs
-    #   image: "images/optimized/honorary-patronages-600x600/MinistryOfDigitalAffairs.webp"
-    # - name: GovTech
-    #   #title: Minister of Digital Affairs
-    #   image: "images/honorary-patronages/govtech.svg"
-    #   url: https://www.gov.pl/web/govtech-en
-    # - name: SGH
-    #   image: "images/optimized/honorary-patronages-600x600/SGH.webp"
-    #   url: https://www.sgh.waw.pl/en
-    # - name: WMiNI
-    #   image: "images/optimized/honorary-patronages-600x600/WMiNI.webp"
-    #   url: "https://ww4.mini.pw.edu.pl/"
-    # - name: University of Warsaw
-    #   #title: Rector of University of Warsaw
-    #   image: "images/optimized/honorary-patronages-600x600/UW.webp"
-    #   url: https://en.uw.edu.pl/
-    # - name: Dean of the Faculty of Mathematics, Informatics and Mechanics
-    #   #title: Dean of the Faculty of Mathematics, Informatics and Mechanics UW
-    #   image: "images/optimized/honorary-patronages-600x600/MIMUW.webp"
-    #   url: https://www.mimuw.edu.pl/
  
 - title: "/ Media partners"
   imageMaxWidth: 215px
@@ -80,24 +36,27 @@
     - name: bit
       image: "images/optimized/partners-600x600/bit.webp"
       url: "https://knbit.edu.pl"
-    - name: KNUM
-      image: "images/optimized/partners-600x600/knum.webp"
-      url: "https://knum.mimuw.edu.pl/"
-    - name: Golem
-      image: "images/optimized/partners-600x600/golem.webp"
-      url: "https://ai.ii.pw.edu.pl/kolo-naukowe-sztucznej-inteligencji-golem/"
-    - name: KNDS
-      image: "images/optimized/partners-600x600/knds_logo.webp"
-      url: "https://www.facebook.com/kolonaukowedatascience"
     - name: Czarna Magia
       image: "images/optimized/partners-600x600/CzarnaMagia.webp"
       url: "http://wmii.uwm.edu.pl/studenci/kola-naukowe/kolo-naukowe-sztucznej-inteligencji-czarna-magia"
-    - name: Group of Horribly Optimistic STatisticians
-      image: "images/optimized/partners-600x600/GHOST.webp"
-      url: "https://ghost.put.poznan.pl"
     - name: IDEAS
       image: "images/optimized/partners-600x600/IdeasNCBR.webp"
       url: "https://ideas-ncbr.pl/en/"
+    - name: KNDS
+      image: "images/optimized/partners-600x600/knds_logo.webp"
+      url: "https://www.facebook.com/kolonaukowedatascience"
+    - name: KNUM
+      image: "images/optimized/partners-600x600/knum.webp"
+      url: "https://knum.mimuw.edu.pl/"
     - name: GMUM
       image: "images/optimized/partners-600x600/gmum_logo.webp"
       url: "https://gmum.net/"
+    - name: Group of Horribly Optimistic STatisticians
+      image: "images/optimized/partners-600x600/GHOST.webp"
+      url: "https://ghost.put.poznan.pl"
+    - name: Golem
+      image: "images/optimized/partners-600x600/golem.webp"
+      url: "https://ai.ii.pw.edu.pl/kolo-naukowe-sztucznej-inteligencji-golem/"
+
+
+

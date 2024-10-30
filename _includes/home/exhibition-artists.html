@@ -2,11 +2,12 @@
 <section id="{{ include.section-id }}" class="container content-section">
     <div class="row">
         <div class="col-lg-12">
-            <h2>/ Exhibition Artists</h2>
+            <h2>/ Exhibition </h2>
             <p>
-                We are honoured to present the authors of <strong>top 9 submissions</strong> of this year’s AI Art competition, which showcased a remarkable diversity of artworks, highlighting the possibilities that artificial intelligence brings to the creative process. From stunning visual pieces to thought-provoking installations, each winner has demonstrated a unique approach to blending technology with creativity.
+                We are honored to present the authors of <strong>top 9 submissions</strong> of this year’s AI Art competition, which showcased a remarkable diversity of artworks, highlighting the possibilities that artificial intelligence brings to the creative process. From stunning visual pieces to thought-provoking installations, each winner has demonstrated a unique approach to blending technology with creativity.
             </p>
 
+            {% comment %}
             <ul>
                 <li><strong>TATSURU ARAI</strong></li>
                 <li><strong>LEON BUTLER</strong></li>
@@ -18,6 +19,7 @@
                 <li><strong>UBERMORGEN</strong></li>
                 <li><strong>ZUZANNA WUDARSKA</strong></li>
             </ul>
+            {% endcomment %}
 
             <p>
                 Join us in celebrating these talented artists at <strong>the Academy of Fine Arts in Warsaw</strong> at Wybrzeże Kościuszkowskie 37, where their works will be exhibited from October 31 to November 11. This exhibition will offer a unique opportunity to explore the innovative intersection of artificial intelligence and art, reflecting various styles, themes, and perspectives.
@@ -27,5 +29,10 @@
             </p>
         </div>
     </div>
-    {% include home/exhibition-artists-slider.html %}
 </section>
+{% include speakers-slider.html 
+    section-id="exhibition-artists" 
+    section-title="Exhibition artists" 
+    speakers-data=site.data.exhibition-artists
+    more-is-coming=true
+%}
