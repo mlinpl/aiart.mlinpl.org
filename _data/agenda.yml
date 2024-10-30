@@ -67,7 +67,7 @@
         # url: /program#workshop-1
             
     - events:
-      - title: "<strong>Awards Ceremony</strong>"
+      - title: '<strong><i class="fa-solid fa-award"></i> Awards Ceremony</strong>'
         element-class: col-lg-12
         time: 19:15 - 22:00
         # room: TBA
