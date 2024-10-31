@@ -1,12 +1,12 @@
 - title: 31 October - 11 November
-  location: Academy of Fine Arts in Warsaw
+  location: Academy of Fine Arts in Warsaw, <strong>Floor -1 and 2</strong>
   location-address: Wybrzeże Kościuszkowskie 37, 00-379 Warsaw
   sessions:
     - events:
       - title: "Exhibition Opening Ceremony"
         subtitle: Open event, no registration required
         element-class: col-lg-12
-        time: 31 October 18:00
+        time: 31 October, 18:00
 
       - title: "Exhibition"
         subtitle: Free entrence, no registration required
