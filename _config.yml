@@ -41,7 +41,7 @@ header:
   date-location: 31 October - 11 November / Warsaw, Poland
   # Countdown settings
   countdown-date: "2024-10-31T08:00:00"
-  arrow-url: "#about"
+  arrow-url: "#banner"
 
 
 # Navigation settings
