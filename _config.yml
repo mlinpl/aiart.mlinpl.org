@@ -89,6 +89,9 @@ navigation:
 
   - name: "/ Timeline"
     url: "#timeline"
+  
+  - name: "/ Podcast"
+    url: "#podcast"
 
   - name: "/ Partners"
     url: "#sponsors"

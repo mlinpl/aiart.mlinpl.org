@@ -1,4 +1,4 @@
-- title: 31 October - 11 November
+- title: 31 October - 11 November, 10 AM - 6 PM
   location: Academy of Fine Arts in Warsaw, <strong>Floor -1 and 2</strong>
   location-address: Wybrzeże Kościuszkowskie 37, 00-379 Warsaw
   sessions:
@@ -9,7 +9,7 @@
         time: 31 October, 18:00
 
       - title: "Exhibition"
-        subtitle: Free entrence, no registration required
+        subtitle: Free entrance, no registration required
         element-class: col-lg-12
         time: 1 November - 11 November, every day between 10:00 - 18:00
 
@@ -24,6 +24,7 @@
         time: 10:00 - 12:00
         # room: TBA
         url: /program#invited-talk-1
+        registration-url: https://aiartfestival-lecture-registration-dominik-jalowinski.paperform.co
 
       # Not-coffee break at the moment    
       # - title: '<i class="fa-solid fa-mug-saucer"></i> Coffee-break'
@@ -42,6 +43,7 @@
         time: 12:30 - 14:30
         # room: TBA
         url: /program#workshop-1
+        registration-url: https://aiartfestival-workshop-registration-domenec-miralles.paperform.co
             
 - title: Saturday / 9 November
   location-online: online
