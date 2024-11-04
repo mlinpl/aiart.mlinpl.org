@@ -36,7 +36,6 @@ optimize_images jury 300x300 webp 90
 
 # Optimize images of speakers
 optimize_images speakers 600x600 webp 90
-optimize_images cfc 600x600 webp 90
 
 # Optimize sponsors and partners logos
 optimize_images sponsors 600x600 webp 90
@@ -45,3 +44,7 @@ optimize_images honorary-patronages 600x600 webp 90
 
 # Optimize AI-generated images
 optimize_images ai-generated 800x800 webp 90
+
+# Images from the exhibition
+optimize_images exhibition 400x270 webp 90
+optimize_images exhibition 2400x1600 webp 90
