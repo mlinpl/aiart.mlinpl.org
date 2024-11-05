@@ -61,7 +61,7 @@
   location-address: Marszałkowska 103, 00-110 Warsaw
   sessions:
     - events:
-      - title: "Invited Talk 3: <strong>TBA</strong>"
+      - title: "Invited Talk 3: <strong>Mind-To-Image: Combining fMRI and AI to represent Visual Imagery</strong>"
         subtitle: "by Hugo Caselles-Dupré from Obvious"
         element-class: col-lg-12
         time: 17:00 - 19:00
