@@ -25,11 +25,6 @@
         # room: TBA
         url: /program#invited-talk-1
         registration-url: https://aiartfestival-lecture-registration-dominik-jalowinski.paperform.co
-
-      # Not-coffee break at the moment    
-      # - title: '<i class="fa-solid fa-mug-saucer"></i> Coffee-break'
-      #   element-class: col-lg-12
-      #   time: 12:00 - 12:30
           
     - events:
       - title: 'Break'
@@ -73,21 +68,11 @@
       - title: 'Break'
         element-class: col-lg-12
         time: 19:00 - 19:15
-
-    # - events:
-    #   - title: "Invited Talk 3: <strong>TBA</strong>"
-    #     subtitle: "by Rachel Maclean"
-    #     element-class: col-lg-12
-    #     time: 18:45 - 20:15
-        # room: TBA
-        # url: /program#workshop-1
             
     - events:
       - title: '<strong><i class="fa-solid fa-award"></i> Awards Ceremony</strong>'
         element-class: col-lg-12
         time: 19:15 - 22:00
-        # room: TBA
-        # url: /program#workshop-1
     
 - title: Sunday / 10 November
   location-online: online
@@ -97,18 +82,16 @@
           subtitle: "by Yuqian Sun"
           element-class: col-lg-12
           time: 10:00 - 11:30
-          # room: TBA
           url: /program#invited-talk-4
           registration-url: https://aiartfestival-lecture-registration-yuqian-sun.paperform.co
 
-            
-#         - title: '<i class="fa-solid fa-mug-saucer"></i> Coffee-break'
+# - title: Sunday / 10 November
+#   location-online: online
+#   sessions-online:
+#     - events:
+#         - title: "Invited Talk X: <strong>DUCK: Relax, none of this is real...</strong>"
+#           subtitle: "by Rachel Maclean"
 #           element-class: col-lg-12
-#           time: 12:00 - 12:30
-
-        # - title: "Workshop 1: <strong>TBA</strong>"
-        #   subtitle: "by Domenec Miralles"
-        #   element-class: col-lg-12
-        #   time: 12:30 - 14:30
-        #   # room: TBA
-        #   # url: /program#workshop-1
+#           time: 10:00 - 11:30
+#           url: /program#invited-talk-X
+#           registration-url: https://aiartfestival-lecture-registration-rachel-maclean.paperform.co
