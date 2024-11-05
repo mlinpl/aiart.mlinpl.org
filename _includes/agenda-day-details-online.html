@@ -9,7 +9,7 @@ Expects following parameters: day
 {% for event in session.events %}
 <div class="{{ event.element-class }} agenda-item">
     <div>
-        {{ event.time }} 
+        <span style="text-transform: uppercase;">{{ event.time }}</span>
         {% if event.room %}
         / {{ event.room }}
         {% endif %}
@@ -28,9 +28,12 @@ Expects following parameters: day
         {% endif %}
 
         {% if event.registration-url %}
+        <span style="text-transform: uppercase;">
+        Registration required: 
         <a href="{{ event.registration-url | relative_url }}" style="color:#FF66C4;" target="_blank">
-            <h4>> REGISTER HERE!</h5>
+            register here
         </a>
+        </span>
         {% endif %}
 
         {% if event.subevents %}

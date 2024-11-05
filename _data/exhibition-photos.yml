@@ -1,0 +1,40 @@
+- name:
+  src-dir: images/optimized/exhibition-2400x1600
+  thumbnails-dir: images/optimized/exhibition-400x270
+  photos:
+    - filename: Agata_Konarska_exhibition_opening_8.webp
+      width: 2400
+      height: 1600
+    - filename: Agata_Konarska_exhibition_opening_9.webp
+      width: 2400
+      height: 1600
+    - filename: Anze_Sekelj_exhibition_opening_6.webp 
+      width: 2400
+      height: 1600
+    - filename: Anze_Sekelj_exhibition_opening_7.webp 
+      width: 2400
+      height: 1600
+    - filename: Konrad_Smolen_exhibition_opening_15.webp
+      width: 2400
+      height: 1600
+    - filename: Leon_Butler_exhibition_opening_4.webp 
+      width: 2400
+      height: 1600
+    - filename: Leon_Butler_exhibition_opening_17.webp 
+      width: 2400
+      height: 1600
+    - filename: Piotr_Stechura_exhibition_opening_11.webp
+      width: 2400
+      height: 1600
+    - filename: Piotr_Stechura_exhibition_opening_12.webp 
+      width: 2400
+      height: 1600
+    - filename: Tatsuru_Arai_exhibition_opening_5.webp 
+      width: 2400
+      height: 1600
+    - filename: Ubermorgen_exhibition_opening_14.webp 
+      width: 2400
+      height: 1600
+    - filename: Zuzanna_Wudarska_exhibition_opening_2.webp
+      width: 2400
+      height: 1600
