@@ -1,8 +1,8 @@
-- title: "TBA"
+- title: Słabi artyści kopiują, wielcy artyści kradną, a AI... robi to wszystko w ułamku sekundy i jeszcze generuje do tego artist statement.
   abstract: >-
     TBA
   time: 10:00 - 12:00
-  room: TBA
+  # room: TBA
   date: Friday / 8 November
   id: 1
   author-name: Dominik Jałowiński
@@ -10,7 +10,7 @@
   author-image: images/optimized/speakers-600x600/dominik_jalowinski.webp
   author-bio: >-
     Visual artist, painter, performer, curator of virtual visual experiences. Born in 1981 in Lublin, Poland. Dominik studied at the Faculty of Painting at the Academy of Fine Arts in Warsaw (2002-2008). He creates paintings, performances, and social situations that explore the boundaries of aesthetic and cultural limits on both social and personal levels. In 2015, he was a recipient of a scholarship from the Ministry of Culture and National Heritage. From 2018 to 2022, he was a co-creator and participant in exhibitions at the Galeria Śmierć Frajerom. Since 2017, he has been experimenting with various applications of new technologies in art. Since 2018, he has been using artificial intelligence algorithms as tools for creating images.
-  # google-scholar: https://scholar.google.co.uk/citations?user=5K1QB_8AAAAJ
+  registration-url: https://aiartfestival-lecture-registration-dominik-jalowinski.paperform.co
 
 - title: "Will it Blend? The Future of Human/AI Collaboration in Creativity"
   abstract: >-
@@ -24,9 +24,9 @@
   author-image: images/optimized/speakers-600x600/boris_eldagsen.webp
   author-bio: >-
     Boris Eldagsen (*1970, photo by Jan Sobottka) studied fine arts as well as philosophy. As a photomedia artist, he has exhibited since 2000 in various institutions and festivals including Fridericianum Kassel, ACP Sydney and Singapore International Photography Festival. Since 2004 he has been teaching as a lecturer and visiting professor at international art schools and gives workshops for the Goethe Institute, festivals and museums. Boris has been an appointed member of the German Photographic Academy (DFA) since 2013 and a member of the DGPh since 2023. He is a digital advisor to Roger Ballen and was "Head of Digital" at the DFA from 2016 to 2023, for which he designed and managed numerous online formats on artistic photography. He is also a founding member of the "Technological Progress" working group of the German Photo Council, in which Germany's photography associations discuss the impact of AI on photography. In April 2023, he turned down the Sony World Photography Award (Open Category / Creative) because he had applied with an AI-generated image to test whether photography competitions and a debate on the relationship between AI-generated images and photography were possible. His stunt became worldwide news and his image PSEUDOMNESIA | The Electrician became one of the most famous of the year.
-  # google-scholar: https://scholar.google.co.uk/citations?user=5K1QB_8AAAAJ
+  registration-url: https://aiartfestival-lecture-registration-boris-eldagsen.paperform.co
 
-- title: "TBA"
+- title: "Mind-To-Image: Combining fMRI and AI to represent Visual Imagery"
   abstract: >-
     TBA
   time: 17:00 - 19:00
@@ -38,4 +38,4 @@
   author-image: images/optimized/speakers-600x600/obvious.webp
   author-bio: >-
     Obvious is a French trio of artists and researchers that uses artificial intelligence algorithms to create works of art. Their work was highlighted in 2018 with the sale of one of their paintings, Edmond de Belamy, at Christie's NY. Their works, at the crossroads of classical art and the most recent technologies, are subsequently exhibited in the great museums of the world. They are represented by Danysz gallery, renowned for spotting emerging artistic talents. Pioneers of digital art, they are also the first French artists to have created NFTs. Through its work and its collaborations (Nike, Alpine, Opéra de Paris), Obvious aims to bring the tools developed in research to creative people in all industries, in order to initiate the next visual and artistic revolution. Obvious created its Artificial Intelligence research laboratory in 2023 in partnership with the Sorbonne University, with the aim of creating new algorithms for artistic creation and offering them in open-source to the public. In 2024, they present Mind-to-Image, their first research result: a combination of fMRI technology and ML to read the mind's eye.
-  # google-scholar: https://scholar.google.co.uk/citations?user=5K1QB_8AAAAJ
+  registration-url: https://aiartfestival-workshop-registration-domenec-miralles.paperform.co
