@@ -1,7 +1,10 @@
-# - name: Tatsaru Arai
-#   title:
-#   image: images/optimized/exhibition-artists-600x600/tatsaru_arai.webp
-#   bio: >-
+- name: Tatsaru Arai
+  title:
+  image: images/optimized/exhibition-artists-600x600/tatsaru_arai.webp
+  bio: >-
+    Japanese composer, sound and multimedia artist based in Berlin, known for creating innovative, tech-integrated compositions that he calls "Gesamtkunstwerk." After completing studies in composition at Tokyo College of Music (2003-2009) and the Academy of Music "Hanns Eisler" in Berlin (2009-2013), he has continued pushing the boundaries of music with works that blend classical music and cutting-edge technology. His opera Vitruvian, performed in Berlin and London, showcases this approach by merging traditional and digital elements.
+    <br>    
+    His primary artistic focus, "TRANS-AGES MUSIC," seeks to reveal the universe's inherent structure through sound, exploring the intersection between human perception and the "geometric structure" of music. Since 2016, he has pioneered "Hyper Serial Music," algorithmic compositions that integrate AI to expand on Serialism principles, performed across 70 cities. His notable works include Face of Universe, which debuted at Seoul’s Zerone Festival and was recently shown at CIKE, ISEA, Madatac, and Share Festival. Other recent performances include Re-Solarization at the Berlin Philharmonic Hall, Nemo Biennale in Paris, and Sonica in Glasgow.
 
 - name: Leon Butler
   title:
