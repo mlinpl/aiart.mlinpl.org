@@ -68,6 +68,8 @@ navigation:
         url: "#exhibition"
       - name: "/ Agenda"
         url: "#agenda"
+      - name: "/ Venues"
+        url: "#venues"
       - name: "/ Full program"
         url: "/program"
       - name: "/ Competition"
@@ -85,13 +87,11 @@ navigation:
           - name: "/ Jury"
             url: "/competition-jury"
 
-        
+  - name: "/ Podcast"
+    url: "#podcast"
 
   - name: "/ Timeline"
     url: "#timeline"
-  
-  - name: "/ Podcast"
-    url: "#podcast"
 
   - name: "/ Partners"
     url: "#sponsors"
