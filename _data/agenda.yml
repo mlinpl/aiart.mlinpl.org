@@ -51,17 +51,25 @@
           url: /program#invited-talk-2
           registration-url: https://aiartfestival-lecture-registration-boris-eldagsen.paperform.co
 
+        - title: "Invited Talk 3: <strong>DUCK: Relax, none of this is real...</strong>"
+          subtitle: "by Rachel Maclean"
+          element-class: col-lg-12
+          time: 11:30 - 13:00
+          url: /program#invited-talk-3
+          registration-url: https://aiartfestival-lecture-registration-rachel-maclean.paperform.co
+
+
 
   location: Museum of Modern Art in Warsaw
   location-address: Marszałkowska 103, 00-110 Warsaw
   sessions:
     - events:
-      - title: "Invited Talk 3: <strong>Mind-To-Image: Combining fMRI and AI to represent Visual Imagery</strong>"
+      - title: "Invited Talk 4: <strong>Mind-To-Image: Combining fMRI and AI to represent Visual Imagery</strong>"
         subtitle: "by Hugo Caselles-Dupré from Obvious"
         element-class: col-lg-12
         time: 17:00 - 19:00
         # room: TBA
-        url: /program#invited-talk-3
+        url: /program#invited-talk-4
         registration-url: https://aiartfestival-lecture-registration-obvious.paperform.co
 
     - events:
@@ -78,20 +86,9 @@
   location-online: online
   sessions-online:
     - events:
-        - title: "Invited Talk 4: <strong>TBA</strong>"
+        - title: "Invited Talk 5: <strong>TBA</strong>"
           subtitle: "by Yuqian Sun"
           element-class: col-lg-12
           time: 10:00 - 11:30
-          url: /program#invited-talk-4
+          url: /program#invited-talk-5
           registration-url: https://aiartfestival-lecture-registration-yuqian-sun.paperform.co
-
-# - title: Sunday / 10 November
-#   location-online: online
-#   sessions-online:
-#     - events:
-#         - title: "Invited Talk X: <strong>DUCK: Relax, none of this is real...</strong>"
-#           subtitle: "by Rachel Maclean"
-#           element-class: col-lg-12
-#           time: 10:00 - 11:30
-#           url: /program#invited-talk-X
-#           registration-url: https://aiartfestival-lecture-registration-rachel-maclean.paperform.co
