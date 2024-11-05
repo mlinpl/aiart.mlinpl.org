@@ -24,6 +24,9 @@
     - name: TCL
       image: images/optimized/partners-600x600/TCL.webp
       url: "https://www.tcl.com/pl/pl"
+    - name: MIMUW
+      image: images/optimized/partners-600x600/mimuw.webp
+      url: "https://www.mimuw.edu.pl/en/"
 
 - title: "/ Media partners"
   imageMaxWidth: 215px
