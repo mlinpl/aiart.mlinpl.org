@@ -14,14 +14,14 @@
                     {% if site.header.subheading %}
                     <h2 class="event-subheading stroke-text">{{ site.header.subheading }}</h2>
                     {% endif %}
-                    
+
+                    {% if site.header.date-location %}
+                    <h3 class="event-date-location stroke-text">{{ site.header.date-location }}</h3>
+                    {% endif %}
+
                     <!-- New Short Text Class -->
                     {% if site.header.short-text %}
                     <h4 class="event-short-text stroke-text">{{ site.header.short-text }}</h4>
-                    {% endif %}
-                    
-                    {% if site.header.date-location %}
-                    <h3 class="event-date-location stroke-text">{{ site.header.date-location }}</h3>
                     {% endif %}
                     
                     <!-- {% if site.header.countdown-overwrite %}

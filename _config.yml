@@ -39,9 +39,9 @@ inline-logo: '<span class="logo"><span class="main-name">ML <span class="emph">i
 header:
   heading: '<img src="images/mlinpl-aiart-2024-logo-white-stroke+shadow.png" alt="ML in PL AI Art Festival 2024" style="max-height: 1.75em; max-width: 90%;">'
   date-location: 31 October - 11 November / Warsaw, Poland
+  short-text: "Exhibition: Academy of Fine Arts in Warsaw, Wybrzeże Kościuszkowskie 37/39"
   # Countdown settings
   # countdown-date: "2024-10-31T08:00:00"
-  short-text: "Exhibition: Academy of Fine Arts in Warsaw, Wybrzeże Kościuszkowskie 37/39"
   arrow-url: "#banner"
 
 
