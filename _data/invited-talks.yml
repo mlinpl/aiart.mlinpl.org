@@ -26,16 +26,46 @@
     Boris Eldagsen (*1970, photo by Jan Sobottka) studied fine arts as well as philosophy. As a photomedia artist, he has exhibited since 2000 in various institutions and festivals including Fridericianum Kassel, ACP Sydney and Singapore International Photography Festival. Since 2004 he has been teaching as a lecturer and visiting professor at international art schools and gives workshops for the Goethe Institute, festivals and museums. Boris has been an appointed member of the German Photographic Academy (DFA) since 2013 and a member of the DGPh since 2023. He is a digital advisor to Roger Ballen and was "Head of Digital" at the DFA from 2016 to 2023, for which he designed and managed numerous online formats on artistic photography. He is also a founding member of the "Technological Progress" working group of the German Photo Council, in which Germany's photography associations discuss the impact of AI on photography. In April 2023, he turned down the Sony World Photography Award (Open Category / Creative) because he had applied with an AI-generated image to test whether photography competitions and a debate on the relationship between AI-generated images and photography were possible. His stunt became worldwide news and his image PSEUDOMNESIA | The Electrician became one of the most famous of the year.
   registration-url: https://aiartfestival-lecture-registration-boris-eldagsen.paperform.co
 
+- title: "DUCK: Relax, none of this is real..."
+  abstract: >-
+    TBA
+  time: 11:30 - 13:00
+  room: Online
+  date: Saturday / 9 November
+  id: 3
+  author-name: Rachel Maclean
+  author-title: 
+  author-image: images/optimized/speakers-600x600/rachel_maclean.webp
+  author-bio: >-
+    Obvious is a French trio of artists and researchers that uses artificial intelligence algorithms to create works of art. Their work was highlighted in 2018 with the sale of one of their paintings, Edmond de Belamy, at Christie's NY. Their works, at the crossroads of classical art and the most recent technologies, are subsequently exhibited in the great museums of the world. They are represented by Danysz gallery, renowned for spotting emerging artistic talents. Pioneers of digital art, they are also the first French artists to have created NFTs. Through its work and its collaborations (Nike, Alpine, Opéra de Paris), Obvious aims to bring the tools developed in research to creative people in all industries, in order to initiate the next visual and artistic revolution. Obvious created its Artificial Intelligence research laboratory in 2023 in partnership with the Sorbonne University, with the aim of creating new algorithms for artistic creation and offering them in open-source to the public. In 2024, they present Mind-to-Image, their first research result: a combination of fMRI technology and ML to read the mind's eye.
+  registration-url: https://aiartfestival-lecture-registration-rachel-maclean.paperform.co
+
 - title: "Mind-To-Image: Combining fMRI and AI to represent Visual Imagery"
   abstract: >-
     TBA
   time: 17:00 - 19:00
-  room: TBA
+  room: Online
   date: Saturday / 9 November
-  id: 3
+  id: 4
   author-name: Hugo Castelles-Dupré from Obvious
   author-title: 
   author-image: images/optimized/speakers-600x600/obvious.webp
   author-bio: >-
     Obvious is a French trio of artists and researchers that uses artificial intelligence algorithms to create works of art. Their work was highlighted in 2018 with the sale of one of their paintings, Edmond de Belamy, at Christie's NY. Their works, at the crossroads of classical art and the most recent technologies, are subsequently exhibited in the great museums of the world. They are represented by Danysz gallery, renowned for spotting emerging artistic talents. Pioneers of digital art, they are also the first French artists to have created NFTs. Through its work and its collaborations (Nike, Alpine, Opéra de Paris), Obvious aims to bring the tools developed in research to creative people in all industries, in order to initiate the next visual and artistic revolution. Obvious created its Artificial Intelligence research laboratory in 2023 in partnership with the Sorbonne University, with the aim of creating new algorithms for artistic creation and offering them in open-source to the public. In 2024, they present Mind-to-Image, their first research result: a combination of fMRI technology and ML to read the mind's eye.
-  registration-url: https://aiartfestival-workshop-registration-domenec-miralles.paperform.co
+  registration-url: https://aiartfestival-lecture-registration-obvious.paperform.co
+
+- title: "TBA"
+  abstract: >-
+    TBA
+  time: 10:00 - 11:30
+  room: Online
+  date: Sunday / 10 November
+  id: 5
+  author-name: Yuqian Sun
+  author-title: 
+  author-image: images/optimized/speakers-600x600/yuqian_sun.webp
+  author-bio: >-
+    TBA
+  registration-url: https://aiartfestival-lecture-registration-yuqian-sun.paperform.co
+
+  
