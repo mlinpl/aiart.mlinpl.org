@@ -3,14 +3,12 @@
   image: images/optimized/speakers-600x600/obvious.webp
   bio: >-
     Obvious is a French trio of artists and researchers that uses artificial intelligence algorithms to create works of art. Their work was highlighted in 2018 with the sale of one of their paintings, Edmond de Belamy, at Christie's NY. Their works, at the crossroads of classical art and the most recent technologies, are subsequently exhibited in the great museums of the world. They are represented by Danysz gallery, renowned for spotting emerging artistic talents. Pioneers of digital art, they are also the first French artists to have created NFTs. Through its work and its collaborations (Nike, Alpine, Opéra de Paris), Obvious aims to bring the tools developed in research to creative people in all industries, in order to initiate the next visual and artistic revolution. Obvious created its Artificial Intelligence research laboratory in 2023 in partnership with the Sorbonne University, with the aim of creating new algorithms for artistic creation and offering them in open-source to the public. In 2024, they present Mind-to-Image, their first research result: a combination of fMRI technology and ML to read the mind's eye.
-  google scholar: 
 
 - name: Dominik Jałowiński
   title: 
   image: images/optimized/speakers-600x600/dominik_jalowinski.webp
   bio: >-
     Visual artist, painter, performer, curator of virtual visual experiences. Born in 1981 in Lublin, Poland. Dominik studied at the Faculty of Painting at the Academy of Fine Arts in Warsaw (2002-2008). He creates paintings, performances, and social situations that explore the boundaries of aesthetic and cultural limits on both social and personal levels. In 2015, he was a recipient of a scholarship from the Ministry of Culture and National Heritage. From 2018 to 2022, he was a co-creator and participant in exhibitions at the Galeria Śmierć Frajerom. Since 2017, he has been experimenting with various applications of new technologies in art. Since 2018, he has been using artificial intelligence algorithms as tools for creating images.
-  google scholar: 
 
 - name: Boris Eldagsen
   title: 
@@ -19,11 +17,15 @@
     Boris Eldagsen (*1970, photo by Jan Sobottka) studied fine arts at the art academies of Mainz, Prague, and the University of Hyderabad (India) - as well as philosophy at the universities of Cologne and Mainz. As a photomedia artist, he has exhibited since 2000 in institutions and festivals including Fridericianum Kassel, Deichtorhallen Hamburg, CCP Melbourne, ACP Sydney, EMAF Osnabrück, Bundeskunsthalle Bonn, FORMAT Festival Derby, Singapore International Photography Festival, Chobi Mela Dhaka, Noorderlicht Groningen and Kochi-Muziris Biennale. Since 2004 he has been teaching as a lecturer and visiting professor at international art schools (Victorian College of the Arts Melbourne, Photography Studies College Melbourne, Pathshala South Asian Media Institute Dhaka, Academy of Fine Arts Mainz, Furtwangen University and Escola d'Art i Superior de Disseny) and gives workshops for the Goethe Institute, festivals and museums (Fotografie Forum Frankfurt, Westlicht Vienna, New Media Scotland, Australian Centre for Photography Sydney, among others). 
   bio-more: >-
     Boris has been an appointed member of the German Photographic Academy (DFA) since 2013 and a member of the DGPh since 2023. He is a digital advisor to Roger Ballen and was "Head of Digital" at the DFA from 2016 to 2023, for which he designed and managed numerous online formats on artistic photography. He is also a founding member of the "Technological Progress" working group of the German Photo Council, in which Germany's photography associations discuss the impact of AI on photography. His background as a university lecturer, photo artist and digital media freelancer makes him one of the leading experts in AI images and moving images. In December 2022, Boris was the first person in Germany to offer online workshops on the topic. Since then, he has taught over 70 workshops (as of summer 2024) and has continuously developed his teaching. He is internationally valued as a teacher and has trained many of today's opinion leaders. In April 2023, he turned down the Sony World Photography Award (Open Category / Creative) because he had applied with an AI-generated image to test whether photography competitions and a debate on the relationship between AI-generated images and photography were possible. His stunt became worldwide news and his image PSEUDOMNESIA | The Electrician became one of the most famous of the year.
-  google scholar:
 
 - name: Domenec Miralles
   title: 
   image: images/optimized/speakers-600x600/domenec_miralles.webp
   bio: >-
     Domenec Miralles (b. 1997, Barcelona) is an artist graduated in cinema, philosophy, and fine art. He specialises in digital media productions, usually powered by different forms of AI. His interests englobe topics such as the behavioral image of an end of history, the underlying rhythms of thought around new modes of production, and the phenomenology of working with AI based workflows. He has exhibited across Europe, both individually and with the artistic collective Majin Don Patch.
-  google scholar: 
+
+- name: Rachel Maclean
+  title: 
+  image: images/optimized/speakers-600x600/rachel_maclean.webp
+  bio: >-
+    Rachel Maclean is an established artist and filmmaker based in Glasgow whose films have shown widely in galleries, museums, film festivals, and on television. She has screened work at numerous festivals in the UK and internationally, such as Rotterdam International, Fantastic Fest, and BFI London Film Festival. She has received significant acclaim with solo shows at Tate Britain and The National Gallery, London, and she represented Scotland at the 2017 Venice Biennale with her film Spite Your Face. Her work A Whole New World (2014) won the prestigious Margaret Tate Award in 2013. She has twice been shortlisted for the Jarman Award, and achieved widespread critical praise for Feed Me at the British Art Show in 2016. She has also worked on a number of TV commissions for BBC1 and Channel 4.
