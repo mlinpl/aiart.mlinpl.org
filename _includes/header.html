@@ -1,10 +1,10 @@
 <!-- Intro Header -->
 <header class="intro">
     <div id="intro-video-container" class="intro-video-container">
-    <video id="intro-video" class="intro-video" autoplay loop muted playsinline>
-        <source src="images/mlinpl-aiart-bg-video-v2.mp4" type="video/mp4" />
-        Your browser does not support the video tag.
-    </video>
+        <video id="intro-video" class="intro-video" autoplay loop muted playsinline>
+            <source src="images/mlinpl-aiart-bg-video-v2.mp4" type="video/mp4" />
+            Your browser does not support the video tag.
+        </video>
     </div>
     <div class="intro-body">
         <div class="container">
@@ -14,11 +14,17 @@
                     {% if site.header.subheading %}
                     <h2 class="event-subheading stroke-text">{{ site.header.subheading }}</h2>
                     {% endif %}
+                    
+                    <!-- New Short Text Class -->
+                    {% if site.header.short-text %}
+                    <h4 class="event-short-text stroke-text">{{ site.header.short-text }}</h4>
+                    {% endif %}
+                    
                     {% if site.header.date-location %}
                     <h3 class="event-date-location stroke-text">{{ site.header.date-location }}</h3>
                     {% endif %}
                     
-                    {% if site.header.countdown-overwrite %}
+                    <!-- {% if site.header.countdown-overwrite %}
                     <h3 id="event-countdown" class="event-countdown stroke-text">
                         {{ site.header.countdown-overwrite }}
                     </h3>
@@ -32,7 +38,7 @@
                         <span class="nowrap">/ <span id="m-left">00</span> <sub>minutes</sub></span>
                         <span class="nowrap">/ <span id="s-left">00</span> <sub>seconds</sub></span>
                     </h3>
-                    {% endif %}
+                    {% endif %} -->
 
                     <a href="{{ site.header.arrow-url }}" class="btn btn-circle page-scroll stroke-text">
                         <i class="fa fa-angle-double-down animated"></i>
