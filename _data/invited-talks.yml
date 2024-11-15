@@ -1,8 +1,8 @@
 - title: Słabi artyści kopiują, wielcy artyści kradną, a AI... robi to wszystko w ułamku sekundy i jeszcze generuje do tego artist statement.
-  abstract: >-
-    TBA
+  # abstract: >-
+    # TBA
   time: 10:00 - 12:00
-  # room: TBA
+  room: 1.01
   date: Friday / 8 November
   id: 1
   author-name: Dominik Jałowiński
@@ -41,8 +41,8 @@
   registration-url: https://aiartfestival-lecture-registration-rachel-maclean.paperform.co
 
 - title: "Mind-To-Image: Combining fMRI and AI to represent Visual Imagery"
-  abstract: >-
-    TBA
+  # abstract: >-
+    # TBA
   time: 17:00 - 19:00
   room: Online
   date: Saturday / 9 November
@@ -54,9 +54,9 @@
     Obvious is a French trio of artists and researchers that uses artificial intelligence algorithms to create works of art. Their work was highlighted in 2018 with the sale of one of their paintings, Edmond de Belamy, at Christie's NY. Their works, at the crossroads of classical art and the most recent technologies, are subsequently exhibited in the great museums of the world. They are represented by Danysz gallery, renowned for spotting emerging artistic talents. Pioneers of digital art, they are also the first French artists to have created NFTs. Through its work and its collaborations (Nike, Alpine, Opéra de Paris), Obvious aims to bring the tools developed in research to creative people in all industries, in order to initiate the next visual and artistic revolution. Obvious created its Artificial Intelligence research laboratory in 2023 in partnership with the Sorbonne University, with the aim of creating new algorithms for artistic creation and offering them in open-source to the public. In 2024, they present Mind-to-Image, their first research result: a combination of fMRI technology and ML to read the mind's eye.
   registration-url: https://aiartfestival-lecture-registration-obvious.paperform.co
 
-- title: "TBA"
-  abstract: >-
-    TBA
+- title: "The Art of Language: Creating Games and Experiences with Chatbots"
+  # abstract: >-
+    # TBA
   time: 10:00 - 11:30
   room: Online
   date: Sunday / 10 November
