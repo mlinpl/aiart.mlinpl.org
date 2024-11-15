@@ -87,6 +87,8 @@ navigation:
             url: "/competition-terms"
           - name: "/ Jury"
             url: "/competition-jury"
+          - name: "/ Winners"
+            url: "#winners"
 
   - name: "/ Podcast"
     url: "#podcast"
