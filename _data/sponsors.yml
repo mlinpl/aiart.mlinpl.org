@@ -36,9 +36,6 @@
     - name: bit
       image: "images/optimized/partners-600x600/bit.webp"
       url: "https://knbit.edu.pl"
-    - name: Czarna Magia
-      image: "images/optimized/partners-600x600/CzarnaMagia.webp"
-      url: "http://wmii.uwm.edu.pl/studenci/kola-naukowe/kolo-naukowe-sztucznej-inteligencji-czarna-magia"
     - name: IDEAS
       image: "images/optimized/partners-600x600/IdeasNCBR.webp"
       url: "https://ideas-ncbr.pl/en/"
