@@ -5,25 +5,13 @@
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
     {% include nav.html %}
     {% include header.html %}
-    {% comment %}
-    {% include home/tickets.html %}
-    {% endcomment %}
-    
-    {% include home/winners.html %}
-    
+        
     {% include home/about.html %}
     {% include home/invited-speakers-slider.html %}
     {% include home/exhibition.html %}
     {% include agenda-slider.html agenda-data=site.data.agenda %}
     {% include home/venues.html %}
     {% include home/podcast.html %}
-
-    {% comment %}
-    {% include home/panels-slider.html %}
-    {% include home/sponsor-speakers-slider.html %}
-    {% include home/calls.html %}
-    {% include home/sponsors-call.html %}
-    {% endcomment %}
 
     {% include home/timeline-with-calendars.html %}
     {% include home/sponsors.html %}

@@ -47,22 +47,11 @@ header:
 
 # Navigation settings
 navigation:
-  # - name: "/ Tickets"
-  #   url: "#tickets"
-
-  - name: "/ About"
-    url: "#about"
-    subsites:
-      - name: "/ More information"
-        url: "/about-festival"
-      # - name: "/ Organizers"
-      #   url: "#organizers"
-      # - name: "/ Contact"
-      #   url: "#contact" 
-
   - name: "/ Program"
     url: "#program"
     subsites:
+      - name: "/ About"
+        url: "#about"
       - name: "/ Invited speakers"
         url: "#invited-speakers"
       - name: "/ Exhibition"
@@ -88,7 +77,7 @@ navigation:
           - name: "/ Jury"
             url: "/competition-jury"
           - name: "/ Winners"
-            url: "#winners"
+            url: "/winners"
 
   - name: "/ Podcast"
     url: "#podcast"
